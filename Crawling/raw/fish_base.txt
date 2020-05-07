@@ -1,0 +1,80 @@
+1	bitterling	900	강	매우작다	1x1	No
+2	pale chub	200	강	매우작다	1x1	No
+3	crucian carp	160	강	작다	1x1	No
+4	dace	240	강	중간	1x1	No
+5	carp	300	연못	크다	1x1	No
+6	koi	4000	연못	크다	1x1	No
+7	goldfish	1300	연못	매우작다	1x1	No
+8	pop eyed goldfish	1300	연못	매우작다	1x1	No
+9	ranchu goldfish	4500	연못	작다	1x1	No
+10	killifish	300	연못	매우작다	1x1	No
+11	crawfish	200	연못	작다	1x1	No
+12	softshelled turtle	3750	강	크다	1x1	No
+13	snapping turtle	5000	강	크다	1x1	No
+14	tadpole	100	연못	매우작다	1x1	No
+15	frog	120	연못	작다	1x1	No
+16	freshwater goby	400	강	작다	1x1	No
+17	loach	400	강	작다	1x1	No
+18	catfish	800	연못	크다	1x1	No
+19	giant snakehead	5500	연못	크다	2x1	No
+20	bluegill	180	강	작다	1x1	No
+21	yellow perch	300	강	중간	1x1	No
+22	black bass	400	강	크다	1x1	No
+23	tilapia	800	강	중간	1x1	No
+24	pike	1800	강	매우크다	2x1	No
+25	pond smelt	400	강	작다	1x1	No
+26	sweetfish	900	강	중간	1x1	No
+27	cherry salmon	1000	강 (절벽 위)	중간	1x1	No
+28	char	3800	강 (절벽 위)	중간	1x1	No
+29	golden trout	15000	강 (절벽 위)	중간	1x1	No
+30	stringfish	15000	강 (절벽 위)	매우크다	2x1	No
+31	salmon	700	강 (하구)	크다	2x1	No
+32	king salmon	1800	강 (하구)	매우크다	2x1	No
+33	mitten crab	2000	강	작다	1x1	No
+34	guppy	1300	강	매우작다	1x1	No
+35	nibble fish	1500	강	매우작다	1x1	No
+36	angelfish	3000	강	작다	1x1	No
+37	betta	2500	강	작다	1x1	No
+38	neon tetra	500	강	매우작다	1x1	No
+39	rainbowfish	800	강	매우작다	1x1	No
+40	piranha	2500	강	작다	1x1	No
+41	arowana	10000	강	크다	2x1	No
+42	dorado	15000	강	매우크다	2x1	No
+43	gar	6000	연못	매우크다	2x1	No
+44	arapaima	10000	강	특대	3x2	Yes
+45	saddled bichir	4000	강	크다	2x1	No
+46	sturgeon	10000	강 (하구)	특대	2x1	Yes
+47	sea butterfly	1000	바다	매우작다	1x1	No
+48	sea horse	1100	바다	매우작다	1x1	No
+49	clown fish	650	바다	매우작다	1x1	No
+50	surgeonfish	1000	바다	작다	1x1	No
+51	butterfly fish	1000	바다	작다	1x1	No
+52	Napoleonfish	10000	바다	특대	2x1	Yes
+53	zebra turkeyfish	500	바다	중간	1x1	No
+54	blowfish	5000	바다	중간	1x1	No
+55	puffer fish	250	바다	중간	1x1	No
+56	anchovy	200	바다	작다	1x1	No
+57	horse mackerel	150	바다	작다	1x1	No
+58	barred knifejaw	5000	바다	중간	1x1	No
+59	sea bass	400	바다	매우크다	2x1	No
+60	red snapper	3000	바다	크다	1x1	No
+61	dab	300	바다	중간	1x1	No
+62	olive flounder	800	바다	매우크다	2x1	No
+63	squid	500	바다	중간	1x1	No
+64	moray eel	2000	바다	길다	2x1	No
+65	ribbon eel	600	바다	길다	2x1	No
+66	tuna	7000	부둣가	특대	2x1	Yes
+67	blue marlin	10000	부둣가	특대	2x1	Yes
+68	giant trevally	4500	부둣가	매우크다	2x1	No
+69	mahi mahi	6000	부둣가	매우크다	2x1	Yes
+70	ocean sunfish	4000	바다	특대 지느러미	2x2	Yes
+71	ray	3000	바다	매우크다	2x1	No
+72	saw shark	12000	바다	특대 지느러미	2x1	No
+73	hammerhead shark	8000	바다	특대 지느러미	2x1	Yes
+74	great white shark	15000	바다	특대 지느러미	3x2	Yes
+75	whale shark	13000	바다	특대 지느러미	3x2	Yes
+76	suckerfish	1500	바다	크고 지느러미	1x1	No
+77	football fish	2500	바다	크다	2x1	No
+78	oarfish	9000	바다	특대	3x2	Yes
+79	barreleye	15000	바다	작다	1x1	No
+80	coelacanth	15000	바다 (눈/비오는 날)	특대	2x1	Yes
