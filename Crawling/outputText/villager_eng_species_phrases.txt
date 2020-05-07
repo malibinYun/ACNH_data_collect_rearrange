@@ -1,0 +1,391 @@
+﻿Admiral,Bird,aye aye
+Agent S,Squirrel,sidekick
+Agnes,Pig,snuffle
+Al,Gorilla,Ayyeeee
+Alfonso,Alligator,it'sa me
+Alice,Koala,guvnor
+Alli,Alligator,graaagh
+Amelia,Eagle,cuz
+Anabelle,Anteater,snorty
+Anchovy,Bird,chuurp
+Ankha,Cat,me meow
+Angus,Bull,macmoo
+Anicotti,Mouse,cannoli
+Annalisa,Anteater,gumdrop
+Annalise,Horse,nipper
+Antonio,Anteater,honk
+Apollo,Eagle,pah
+Apple,Hamster,cheekers
+Astrid,Kangaroo,my pet
+Audie,Wolf,Foxtrot
+Aurora,Penguin,b-b-baby
+Ava,Chicken,beaker
+Avery,Eagle,skree-haw
+Axel,Elephant,WHONK
+Baabara,Sheep,daahling
+Bam,Deer,kablang
+Bangle,Tiger,growf
+Barold,Cub,cubby
+Beau,Deer,saltlick
+Bea,Dog,bingo
+Beardo,Bear,whiskers
+Becky,Chicken,chicklet
+Bella,Mouse,eeks
+Benedict,Chicken,uh-hoo
+Benjamin,Dog,alrighty
+Bertha,Hippo,bloop
+Bettina,Mouse,eekers
+Bianca,Tiger,glimmer
+Biff,Hippo,squirt
+Big Top,Elephant,villain
+Bill,Duck,quacko
+Billy,Goat,dagnaabit
+Biskit,Dog,dog
+Bitty,Hippo,my dear
+Blaire,Squirrel,nutlet
+Blanche,Ostrich,quite so
+Bluebear,Cub,peach
+Bob,Cat,pthhhpth
+Bonbon,Rabbit,deelish
+Bones,Dog,yip yip
+Boomer,Penguin,human
+Boone,Gorilla,baboom
+Boots,Alligator,munchie
+Boris,Pig,schnort
+Boyd,Gorilla,uh-oh
+Bree,Mouse,cheeseball
+Broccolo,Mouse,eat it
+Bruce,Deer,gruff
+Broffina,Chicken,cluckadoo
+Bubbles,Hippo,hipster
+Buck,Horse,pardner
+Bud,Lion,shredded
+Bunnie,Rabbit,tee-hee
+Butch,Dog,ROOOOOWF
+Buzz,Eagle,captain
+Cally,Squirrel,WHEE
+Camofrog,Frog,ten-hut
+Canberra,Koala,nuh uh
+Candi,Mouse,sweetie
+Carmen,Rabbit,nougat
+Caroline,Squirrel,hulaaaa
+Carrie,Kangaroo,little one
+Cashmere,Sheep,baaaby
+Celia,Eagle,feathers
+Cesar,Gorilla,highness
+Chadder,Mouse,fromage
+Charlise,Bear,urgh
+Cheri,Cub,tralala
+Cherry,Dog,what what
+Chester,Cub,rookie
+Chevre,Goat,la baa
+Chief,Wolf,harrumph
+Chops,Pig,zoink
+Chow,Bear,aiya
+Chrissy,Rabbit,sparkles
+Claude,Rabbit,hopalong
+Claudia,Tiger,ooh la la
+Clay,Hamster,thump
+Cleo,Horse,sugar
+Clyde,Horse,clip-clawp
+Coach,Bull,stubble
+Cobb,Pig,hot dog
+Coco,Rabbit,doyoing
+Cole,Rabbit,duuude
+Colton,Horse,check it
+Cookie,Dog,arfer
+Cousteau,Frog,oui oui
+Cranston,Ostrich,sweatband
+Croque,Frog,as if
+Cube,Penguin,d-d-dude
+Curlos,Sheep,shearly
+Curly,Pig,nyoink
+Curt,Bear,fuzzball
+Cyd,Elephant,rockin'
+Cyrano,Anteater,ah-CHOO
+Daisy,Dog,bow-WOW
+Deena,Duck,woowoo
+Deirdre,Deer,whatevs
+Del,Alligator,gronk
+Deli,Monkey,monch
+Derwin,Duck,derrrrr
+Diana,Deer,no doy
+Diva,Frog,ya know
+Dizzy,Elephant,woo-oo
+Dobie,Wolf,ohmmm
+Doc,Rabbit,ol' bunny
+Dom,Sheep,indeedaroo
+Dora,Mouse,squeaky
+Dotty,Rabbit,wee one
+Drago,Alligator,burrrn
+Drake,Duck,quacko
+Drift,Frog,brah
+Ed,Horse,greenhorn
+Egbert,Chicken,doodle-duh
+Elise,Monkey,puh-lease
+Ellie,Elephant,li'l one
+Elmer,Horse,tenderfoot
+Eloise,Elephant,tooooot
+Elvis,Lion,unh-hunh
+Erik,Deer,chow down
+Eunice,Sheep,lambchop
+Eugene,Koala,yeah buddy
+Fang,Wolf,cha-chomp
+Fauna,Deer,dearie
+Felicity,Cat,mimimi
+Filbert,Squirrel,bucko
+Flip,Monkey,rerack
+Flo,Penguin,cha
+Flora,Ostrich,pinky
+Flurry,Hamster,powderpuff
+Francine,Rabbit,karat
+Frank,Eagle,crushy
+Freckles,Duck,ducky
+Freya,Wolf,uff da
+Friga,Penguin,brrmph
+Frita,Sheep,oh ewe
+Frobert,Frog,fribbit
+Fuchsia,Deer,precious
+Gabi,Rabbit,honeybun
+Gala,Pig,snortie
+Gaston,Rabbit,mon chou
+Gayle,Alligator,snacky
+Genji,Rabbit,mochi
+Gigi,Frog,ribette
+Gladys,Ostrich,stretch
+Gloria,Duck,quacker
+Goldie,Dog,woof
+Gonzo,Koala,mate
+Goose,Chicken,buh-kay
+Graham,Hamster,indeed
+Greta,Mouse,yelp
+Grizzly,Bear,grrr...
+Groucho,Bear,grumble
+Gruff,Goat,bleh eh eh
+Gwen,Penguin,h-h-hon
+Hamlet,Hamster,hammie
+Hamphrey,Hamster,snort
+Hans,Gorilla,groovy
+Harry,Hippo,beach bum
+Hazel,Squirrel,uni-wow
+Henry,Frog,snoozit
+Hippeux,Hippo,natch
+Hopkins,Rabbit,thumper
+Hopper,Penguin,slushie
+Hornsby,Rhino,schnozzle
+Huck,Frog,hopper
+Hugh,Pig,snortle
+Iggly,Penguin,waddler
+Ike,Bear,roadie
+Jacob,Bird,chuuuuurp
+Jacques,Bird,zut alors
+Jambette,Frog,croak-kay
+Jay,Bird,heeeeeyy
+Jeremiah,Frog,nee-deep
+Jitters,Bird,bzzert
+Joey,Duck,bleeeeeck
+Judy,Cub,myohmy
+Julia,Ostrich,dahling
+Julian,Horse,glitter
+June,Cub,rainbow
+Kabuki,Cat,meooo-OH
+Katt,Cat,purrty
+Keaton,Eagle,wingo
+Ken,Chicken,no doubt
+Ketchup,Duck,bitty
+Kevin,Pig,weeweewee
+Kid Cat,Cat,psst
+Kidd,Goat,wut
+Kiki,Cat,kitty cat
+Kitt,Kangaroo,child
+Kitty,Cat,mrowrr
+Klaus,Bear,strudel
+Knox,Chicken,cluckling
+Kody,Cub,grah-grah
+Kyle,Wolf,alpha
+Leonardo,Tiger,flexin
+Leopold,Lion,lion cub
+Lily,Frog,toady
+Limberg,Mouse,squinky
+Lionel,Lion,precisely
+Lobo,Wolf,ah-rooooo
+Lolly,Cat,bonbon
+Lopez,Deer,buckaroo
+Louie,Gorilla,hoo hoo ha
+Lucha,Bird,cacaw
+Lucky,Dog,rrr-owch
+Lucy,Pig,snoooink
+Lyman,Koala,chips
+Mac,Dog,woo woof
+Maddie,Dog,yippee
+Maelle,Duck,duckling
+Maggie,Pig,schep
+Mallary,Duck,quackpth
+Maple,Cub,honey
+Margie,Elephant,tootie
+Marcel,Dog,non
+Marcie,Kangaroo,pouches
+Marina,Octopus,blurp
+Marshal,Squirrel,sulky
+Mathilda,Kangaroo,wee baby
+Megan,Bear,sundae
+Melba,Koala,toasty
+Merengue,Rhino,shortcake
+Merry,Cat,mweee
+Midge,Bird,tweedledee
+Mint,Squirrel,ahhhhhh
+Mira,Rabbit,cottontail
+Miranda,Duck,quackulous
+Mitzi,Cat,mew
+Moe,Cat,myawn
+Molly,Duck,quackidee
+Monique,Cat,pffffft
+Monty,Monkey,g'tang
+Moose,Mouse,shorty
+Mott,Lion,cagey
+Muffy,Sheep,nightshade
+Murphy,Cub,laddie
+Nan,Goat,kid
+Nana,Monkey,po po
+Naomi,Cow,moolah
+Nate,Bear,yawwwn
+Nibbles,Squirrel,niblet
+Norma,Cow,hoof hoo
+Octavian,Octopus,sucker
+O'Hare,Rabbit,amigo
+Olaf,Anteater,whiffa
+Olive,Cub,sweet pea
+Olivia,Cat,purrr
+Opal,Elephant,snoot
+Ozzie,Koala,ol' bear
+Pancetti,Pig,sooey
+Pango,Anteater,snooooof
+Papi,Horse,haaay
+Paolo,Elephant,pal
+Pashmina,Goat,kidders
+Pate,Duck,quackle
+Patty,Cow,how-now
+Paula,Bear,yodelay
+Peaches,Horse,neighbor
+Peanut,Squirrel,slacker
+Pecan,Squirrel,chipmunk
+Peck,Bird,crunch
+Peewee,Gorilla,li'l dude
+Peggy,Pig,shweetie
+Pekoe,Cub,bud
+Penelope,Mouse,oh bow
+Phil,Ostrich,hurk
+Phoebe,Ostrich,sparky
+Pierce,Eagle,hawkeye
+Pietro,Sheep,honk honk
+Pinky,Bear,wah
+Piper,Bird,chickadee
+Pippy,Rabbit,li'l hare
+Plucky,Chicken,chicky-poo
+Pompom,Duck,rah rah
+Poncho,Cub,li'l bear
+Poppy,Squirrel,nutty
+Portia,Dog,ruffian
+Prince,Frog,burrup
+Puck,Penguin,brrrrrrrrr
+Puddles,Frog,splish
+Pudge,Cub,pudgy
+Punchy,Cat,mrmpht
+Purrl,Cat,kitten
+Queenie,Ostrich,chicken
+Quillson,Duck,ridukulous
+Raddle,Frog,aaach-
+Rasher,Pig,swine
+Raymond,Cat,crisp
+Renée,Rhino,yo yo yo
+Reneigh,Horse,ayup, yup
+Rex,Lion,cool cat
+Rhonda,Rhino,bigfoot
+Ribbot,Frog,zzrrbbitt
+Ricky,Squirrel,nutcase
+Rizzo,Mouse,squee
+Roald,Penguin,b-b-buddy
+Robin,Bird,la-di-da
+Rocco,Hippo,hippie
+Rocket,Gorilla,vroom
+Rod,Mouse,ace
+Rodeo,Bull,chaps
+Rodney,Hamster,le ham
+Rolf,Tiger,grrrolf
+Rooney,Kangaroo,punches
+Rory,Lion,capital
+Roscoe,Horse,nay
+Rosie,Cat,silly
+Rowan,Tiger,mango
+Ruby,Rabbit,li'l ears
+Rudy,Cat,mush
+Sally,Squirrel,nutmeg
+Samson,Mouse,pipsqueak
+Sandy,Ostrich,speedy
+Savannah,Horse,y'all
+Scoot,Duck,zip zoom
+Shari,Monkey,cheeky
+Sheldon,Squirrel,cardio
+Shep,Dog,baa baa baa
+Sherb,Goat,bawwww
+Simon,Monkey,zzzook
+Skye,Wolf,airmail
+Sly,Alligator,hoo-rah
+Snake,Rabbit,bunyip
+Snooty,Anteater,snifffff
+Soleil,Hamster,tarnation
+Sparro,Bird,like whoa
+Spike,Rhino,punk
+Spork,Pig,snork
+Sprinkle,Penguin,frappe
+Sprocket,Ostrich,zort
+Static,Squirrel,krzzt
+Stella,Sheep,baa-dabing
+Sterling,Eagle,skraaaaw
+Stinky,Cat,GAHHHH
+Stitches,Cub,stuffin'
+Stu,Bull,moo-dude
+Sydney,Koala,sunshine
+Sylvana,Squirrel,hubbub
+Sylvia,Kangaroo,boing
+Tabby,Cat,me-WOW
+Tad,Frog,sluuuurp
+Tammi,Monkey,chimpy
+Tammy,Cub,ya heard
+Tangy,Cat,reeeeOWR
+Tank,Rhino,kerPOW
+T-Bone,Bull,moocher
+Tasha,Squirrel,nice nice
+Teddy,Bear,grooof
+Tex,Penguin,picante
+Tia,Elephant,teacup
+Tiffany,Rabbit,bun bun
+Timbra,Sheep,pine nut
+Tipper,Cow,pushy
+Tom,Cat,me-YOWZA
+Truffles,Pig,snoutie
+Tucker,Elephant,fuzzers
+Tutu,Bear,twinkles
+Twiggy,Bird,cheepers
+Tybalt,Tiger,grrRAH
+Ursala,Bear,grooomph
+Velma,Goat,blih
+Vesta,Sheep,baaaffo
+Vic,Bull,cud
+Victoria,Horse,sugar cube
+Violet,Gorilla,sweetie
+Vivian,Wolf,piffle
+Vladimir,Cub,nyet
+Wade,Penguin,so it goes
+Walker,Dog,wuh
+Walt,Kangaroo,pockets
+Wart Jr.,Frog,grr-ribbit
+Weber,Duck,quaa
+Wendy,Sheep,lambkins
+Winnie,Horse,hay-OK
+Whitney,Wolf,snappy
+Willow,Sheep,bo peep
+Wolfgang,Wolf,snarrrl
+Yuka,Koala,tsk tsk
+Zell,Deer,pronk
+Zucker,Octopus,bloop

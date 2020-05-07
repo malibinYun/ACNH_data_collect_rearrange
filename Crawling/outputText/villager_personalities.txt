@@ -1,0 +1,8 @@
+Cranky,무뚝뚝,コワイ
+Jock,운동광,ハキハキ
+Lazy,먹보,ぼんやり
+Normal,친절함,ふつう
+Peppy,아이돌,げんき
+Sisterly,단순활발,アネキ
+Smug,느끼함,キザ
+Snooty,성숙함,オトナ

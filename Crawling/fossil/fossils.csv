@@ -1,0 +1,74 @@
+Name,Sell,Size,Museum,Interact
+acanthostega,2000,1x1,Room 1,No
+amber,1200,1x1,Room 1,No
+ammonite,1100,1x1,Room 1,No
+ankylo skull,3500,2x2,Room 2,No
+ankylo tail,2500,2x2,Room 2,No
+ankylo torso,3000,2x2,Room 2,No
+anomalocaris,2000,1x1,Room 1,No
+archaeopteryx,1300,1x1,Room 2,No
+archelon skull,4000,2x2,Room 2,No
+archelon tail,3500,2x2,Room 2,No
+australopith,1100,1x1,Room 3,No
+brachio chest,5500,2x2,Room 2,No
+brachio pelvis,5000,2x2,Room 2,No
+brachio skull,6000,2x2,Room 2,No
+brachio tail,5500,2x2,Room 2,No
+coprolite,1100,1x1,Room 2,No
+deinony tail,2500,2x2,Room 2,No
+deinony torso,3000,2x2,Room 2,No
+dimetrodon skull,5500,2x2,Room 2,No
+dimetrodon torso,5000,2x2,Room 2,No
+dinosaur track,1000,1x1,Room 2,No
+diplo chest,4000,2x2,Room 2,No
+diplo neck,4500,2x2,Room 2,No
+diplo pelvis,4500,2x2,Room 2,No
+diplo skull,5000,2x2,Room 2,No
+diplo tail,5000,2x2,Room 2,No
+diplo tail tip,4000,2x2,Room 2,No
+dunkleosteus,3500,2x2,Room 1,No
+eusthenopteron,2000,1x1,Room 1,No
+iguanodon skull,4000,2x2,Room 2,No
+iguanodon tail,3000,2x2,Room 2,No
+iguanodon torso,3500,2x2,Room 2,No
+juramaia,1500,1x1,Room 2,No
+left megalo side,4000,2x2,Room 3,No
+left ptera wing,4500,2x2,Room 2,No
+left quetzal wing,5000,2x2,Room 2,No
+mammoth skull,3000,2x2,Room 3,No
+mammoth torso,2500,2x2,Room 3,No
+megacero skull,4500,2x2,Room 3,No
+megacero tail,3000,2x2,Room 3,No
+megacero torso,3500,2x2,Room 3,No
+myllokunmingia,1500,1x1,Room 1,No
+ophthalmo skull,2500,2x2,Room 2,No
+ophthalmo torso,2000,2x2,Room 2,No
+pachy skull,4000,2x2,Room 2,Yes
+pachy tail,3500,2x2,Room 2,No
+parasaur skull,3500,2x2,Room 2,No
+parasaur tail,2500,2x2,Room 2,No
+parasaur torso,3000,2x2,Room 2,No
+plesio body,4500,2x2,Room 2,No
+plesio skull,4000,2x2,Room 2,No
+plesio tail,4500,2x2,Room 2,No
+ptera body,4000,2x2,Room 2,No
+quetzal torso,4500,2x2,Room 2,No
+right megalo side,5500,2x2,Room 3,No
+right ptera wing,4500,2x2,Room 2,No
+right quetzal wing,5000,2x2,Room 2,No
+sabertooth skull,2500,2x2,Room 3,No
+sabertooth tail,2000,2x2,Room 3,No
+sharktooth pattern,1000,1x1,Room 1,No
+spino skull,4000,2x2,Room 2,Yes
+spino tail,2500,2x2,Room 2,No
+spino torso,3000,2x2,Room 2,No
+stego skull,5000,2x2,Room 2,No
+stego tail,4000,2x2,Room 2,No
+stego torso,4500,2x2,Room 2,No
+trex skull,6000,2x2,Room 2,Yes
+trex tail,5000,2x2,Room 2,No
+trex torso,5500,2x2,Room 2,No
+tricera skull,5500,2x2,Room 2,Yes
+tricera tail,4500,2x2,Room 2,No
+tricera torso,5000,2x2,Room 2,No
+trilobite,1300,1x1,Room 1,No
