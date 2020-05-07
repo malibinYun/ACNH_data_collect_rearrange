@@ -6,33 +6,41 @@ import java.util.regex.Pattern
 fun main() {
     val fossilMap = getFossilCsvMap()
 
-    val stringBuilder = StringBuilder()
+    val stringBuilder = StringBuilder("index,nameKor,partsKor,indexEngName,price,size,museumLocation,interact,imgUrl\n")
     var index = 1
     File("fossil", "fossil_urls.txt").forEachLine {
         val regex = "_(.*).png"
         val pattern = Pattern.compile(regex)
         val matcher = pattern.matcher(it)
         matcher.find()
-        val fossilName = matcher.group(1).split("_")[2]
-        println(fossilName)
-        val cursor = fossilMap[fossilName]!!
+        val fossilEngFullName = matcher.group(1).split("_")[2]
+        println(fossilEngFullName)
+        val cursor = fossilMap[fossilEngFullName]!!
         val animalNameEng = cursor[0].split(" ")[0]
         val parts = cursor[0].split(" ").getOrNull(1) ?: "single"
         val price = cursor[1]
         val size = cursor[2]
         val location = cursor[3]
         val interAction = cursor[4]
+        val nameKor = cursor[5]
+        val partsKor = cursor[6]
         stringBuilder
             .append(index).append(",")
-            .append(animalNameEng).append(",")
-            .append(parts).append(",")
-            .append(fossilName).append(",")
+            .append(nameKor).append(",")
+            .append(partsKor).append(",")
+            .append(fossilEngFullName).append(",")
             .append(price).append(",")
             .append(size).append(",")
             .append(location).append(",")
-            .append(interAction).append("\n")
+            .append(interAction).append(",")
+            .append(it).append("\n")
+        index++
     }
     println(stringBuilder.toString())
+
+    val outputFile = File("fixed_data", "fossils_complete.txt")
+    outputFile.writeText(stringBuilder.toString())
+    println("Write Success")
 }
 
 fun getFossilCsvMap(): Map<String, List<String>> {
@@ -60,4 +68,3 @@ fun getFossilUrlMap(): List<String> {
     }
     return fossilList
 }
-//https://firebasestorage.googleapis.com/v0/b/acnh-wiki-f8aa7.appspot.com/o/fossil%2Fic_fossil_001_acanthostega.png?alt=media&token=1b8b0b0c-b7a5-484d-8085-3a3631cdf64f

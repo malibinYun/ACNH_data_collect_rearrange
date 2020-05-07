@@ -1,74 +1,74 @@
-Name,Sell,Size,Museum,Interact
-acanthostega,2000,1x1,Room 1,No
-amber,1200,1x1,Room 1,No
-ammonite,1100,1x1,Room 1,No
-ankylo skull,3500,2x2,Room 2,No
-ankylo tail,2500,2x2,Room 2,No
-ankylo torso,3000,2x2,Room 2,No
-anomalocaris,2000,1x1,Room 1,No
-archaeopteryx,1300,1x1,Room 2,No
-archelon skull,4000,2x2,Room 2,No
-archelon tail,3500,2x2,Room 2,No
-australopith,1100,1x1,Room 3,No
-brachio chest,5500,2x2,Room 2,No
-brachio pelvis,5000,2x2,Room 2,No
-brachio skull,6000,2x2,Room 2,No
-brachio tail,5500,2x2,Room 2,No
-coprolite,1100,1x1,Room 2,No
-deinony tail,2500,2x2,Room 2,No
-deinony torso,3000,2x2,Room 2,No
-dimetrodon skull,5500,2x2,Room 2,No
-dimetrodon torso,5000,2x2,Room 2,No
-dinosaur track,1000,1x1,Room 2,No
-diplo chest,4000,2x2,Room 2,No
-diplo neck,4500,2x2,Room 2,No
-diplo pelvis,4500,2x2,Room 2,No
-diplo skull,5000,2x2,Room 2,No
-diplo tail,5000,2x2,Room 2,No
-diplo tail tip,4000,2x2,Room 2,No
-dunkleosteus,3500,2x2,Room 1,No
-eusthenopteron,2000,1x1,Room 1,No
-iguanodon skull,4000,2x2,Room 2,No
-iguanodon tail,3000,2x2,Room 2,No
-iguanodon torso,3500,2x2,Room 2,No
-juramaia,1500,1x1,Room 2,No
-left megalo side,4000,2x2,Room 3,No
-left ptera wing,4500,2x2,Room 2,No
-left quetzal wing,5000,2x2,Room 2,No
-mammoth skull,3000,2x2,Room 3,No
-mammoth torso,2500,2x2,Room 3,No
-megacero skull,4500,2x2,Room 3,No
-megacero tail,3000,2x2,Room 3,No
-megacero torso,3500,2x2,Room 3,No
-myllokunmingia,1500,1x1,Room 1,No
-ophthalmo skull,2500,2x2,Room 2,No
-ophthalmo torso,2000,2x2,Room 2,No
-pachy skull,4000,2x2,Room 2,Yes
-pachy tail,3500,2x2,Room 2,No
-parasaur skull,3500,2x2,Room 2,No
-parasaur tail,2500,2x2,Room 2,No
-parasaur torso,3000,2x2,Room 2,No
-plesio body,4500,2x2,Room 2,No
-plesio skull,4000,2x2,Room 2,No
-plesio tail,4500,2x2,Room 2,No
-ptera body,4000,2x2,Room 2,No
-quetzal torso,4500,2x2,Room 2,No
-right megalo side,5500,2x2,Room 3,No
-right ptera wing,4500,2x2,Room 2,No
-right quetzal wing,5000,2x2,Room 2,No
-sabertooth skull,2500,2x2,Room 3,No
-sabertooth tail,2000,2x2,Room 3,No
-sharktooth pattern,1000,1x1,Room 1,No
-spino skull,4000,2x2,Room 2,Yes
-spino tail,2500,2x2,Room 2,No
-spino torso,3000,2x2,Room 2,No
-stego skull,5000,2x2,Room 2,No
-stego tail,4000,2x2,Room 2,No
-stego torso,4500,2x2,Room 2,No
-trex skull,6000,2x2,Room 2,Yes
-trex tail,5000,2x2,Room 2,No
-trex torso,5500,2x2,Room 2,No
-tricera skull,5500,2x2,Room 2,Yes
-tricera tail,4500,2x2,Room 2,No
-tricera torso,5000,2x2,Room 2,No
-trilobite,1300,1x1,Room 1,No
+﻿Name,Sell,Size,Museum,Interact,nameKor,partKor
+acanthostega,2000,1x1,Room 1,No,아칸토스테가,단일
+amber,1200,1x1,Room 1,No,호박,단일
+ammonite,1100,1x1,Room 1,No,암모나이트,단일
+ankylo skull,3500,2x2,Room 2,No,안킬로사우루스,머리
+ankylo tail,2500,2x2,Room 2,No,안킬로사우루스,꼬리
+ankylo torso,3000,2x2,Room 2,No,안킬로사우루스,몸통
+anomalocaris,2000,1x1,Room 1,No,아노말로카리스,단일
+archaeopteryx,1300,1x1,Room 2,No,시조새,단일
+archelon skull,4000,2x2,Room 2,No,아르켈론,머리
+archelon tail,3500,2x2,Room 2,No,아르켈론,몸통
+australopith,1100,1x1,Room 3,No,오스트랄로피테쿠스,단일
+brachio chest,5500,2x2,Room 2,No,브라키오사우루스,가슴
+brachio pelvis,5000,2x2,Room 2,No,브라키오사우루스,허리
+brachio skull,6000,2x2,Room 2,No,브라키오사우루스,머리
+brachio tail,5500,2x2,Room 2,No,브라키오사우루스,꼬리
+coprolite,1100,1x1,Room 2,No,대변 화석,단일
+deinony tail,2500,2x2,Room 2,No,데이노니쿠스,꼬리
+deinony torso,3000,2x2,Room 2,No,데이노니쿠스,머리
+dimetrodon skull,5500,2x2,Room 2,No,디메트로돈,머리
+dimetrodon torso,5000,2x2,Room 2,No,디메트로돈,몸통
+dinosaur track,1000,1x1,Room 2,No,발자국 화석,단일
+diplo chest,4000,2x2,Room 2,No,디플로도쿠스,가슴
+diplo neck,4500,2x2,Room 2,No,디플로도쿠스,목
+diplo pelvis,4500,2x2,Room 2,No,디플로도쿠스,허리
+diplo skull,5000,2x2,Room 2,No,디플로도쿠스,머리
+diplo tail,5000,2x2,Room 2,No,디플로도쿠스,꼬리
+diplo tail tip,4000,2x2,Room 2,No,디플로도쿠스,꼬리 끝
+dunkleosteus,3500,2x2,Room 1,No,둔클레오스테우스,단일
+eusthenopteron,2000,1x1,Room 1,No,에우스테놉테론,단일
+iguanodon skull,4000,2x2,Room 2,No,이구아노돈,머리
+iguanodon tail,3000,2x2,Room 2,No,이구아노돈,꼬리
+iguanodon torso,3500,2x2,Room 2,No,이구아노돈,몸통
+juramaia,1500,1x1,Room 2,No,쥐라마이아,단일
+left megalo side,4000,2x2,Room 3,No,메갈로케로스,왼쪽 반신
+left ptera wing,4500,2x2,Room 2,No,프테라노돈,왼날개
+left quetzal wing,5000,2x2,Room 2,No,케찰코아틀루스,왼날개
+mammoth skull,3000,2x2,Room 3,No,매머드,머리
+mammoth torso,2500,2x2,Room 3,No,매머드,몸통
+megacero skull,4500,2x2,Room 3,No,메가케롭스,머리
+megacero tail,3000,2x2,Room 3,No,메가케롭스,꼬리
+megacero torso,3500,2x2,Room 3,No,메가케롭스,몸통
+myllokunmingia,1500,1x1,Room 1,No,밀로쿤밍기아,단일
+ophthalmo skull,2500,2x2,Room 2,No,오프탈모사우루스,머리
+ophthalmo torso,2000,2x2,Room 2,No,오프탈모사우루스,몸통
+pachy saurus skull,4000,2x2,Room 2,Yes,파키케팔로사우루스,머리
+pachy saurus tail,3500,2x2,Room 2,No,파키케팔로사우루스,몸통
+parasaur skull,3500,2x2,Room 2,No,파라사우롤로푸스,머리
+parasaur tail,2500,2x2,Room 2,No,파라사우롤로푸스,꼬리
+parasaur torso,3000,2x2,Room 2,No,파라사우롤로푸스,몸통
+plesio body,4500,2x2,Room 2,No,후타바사우루스,몸통
+plesio skull,4000,2x2,Room 2,No,후타바사우루스,머리
+plesio tail,4500,2x2,Room 2,No,후타바사우루스,꼬리
+ptera body,4000,2x2,Room 2,No,프테라노돈,머리
+quetzal torso,4500,2x2,Room 2,No,케찰코아틀루스,머리
+right megalo side,5500,2x2,Room 3,No,메갈로케로스,오른쪽 반신
+right ptera wing,4500,2x2,Room 2,No,프테라노돈,오른날개
+right quetzal wing,5000,2x2,Room 2,No,케찰코아틀루스,오른날개
+sabertooth skull,2500,2x2,Room 3,No,스밀로돈,머리
+sabertooth tail,2000,2x2,Room 3,No,스밀로돈,몸통
+sharktooth pattern,1000,1x1,Room 1,No,상어 이빨 화석,단일
+spino skull,4000,2x2,Room 2,Yes,스피노사우루스,머리
+spino tail,2500,2x2,Room 2,No,스피노사우루스,꼬리
+spino torso,3000,2x2,Room 2,No,스피노사우루스,몸통
+stego skull,5000,2x2,Room 2,No,스테고사우루스,머리
+stego tail,4000,2x2,Room 2,No,스테고사우루스,꼬리
+stego torso,4500,2x2,Room 2,No,스테고사우루스,몸통
+trex skull,6000,2x2,Room 2,Yes,티렉스,머리
+trex tail,5000,2x2,Room 2,No,티렉스,꼬리
+trex torso,5500,2x2,Room 2,No,티렉스,몸통
+tricera skull,5500,2x2,Room 2,Yes,트리케라톱스,머리
+tricera tail,4500,2x2,Room 2,No,트리케라톱스,꼬리
+tricera torso,5000,2x2,Room 2,No,트리케라톱스,몸통
+trilobite,1300,1x1,Room 1,No,삼엽충,단일
