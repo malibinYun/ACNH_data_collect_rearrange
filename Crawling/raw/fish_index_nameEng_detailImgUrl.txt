@@ -1,0 +1,80 @@
+1	bitterling	https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png
+2	pale chub	https://acnhcdn.com/latest/BookFishIcon/FishOikawaCropped.png
+3	crucian carp	https://acnhcdn.com/latest/BookFishIcon/FishFunaCropped.png
+4	dace	https://acnhcdn.com/latest/BookFishIcon/FishUguiCropped.png
+5	carp	https://acnhcdn.com/latest/BookFishIcon/FishKoiCropped.png
+6	koi	https://acnhcdn.com/latest/BookFishIcon/FishNishikigoiCropped.png
+7	goldfish	https://acnhcdn.com/latest/BookFishIcon/FishKingyoCropped.png
+8	pop eyed goldfish	https://acnhcdn.com/latest/BookFishIcon/FishDemekinCropped.png
+9	ranchu goldfish	https://acnhcdn.com/latest/BookFishIcon/FishRanchuCropped.png
+10	killifish	https://acnhcdn.com/latest/BookFishIcon/FishMedakaCropped.png
+11	crawfish	https://acnhcdn.com/latest/BookFishIcon/FishZariganiCropped.png
+12	softshelled turtle	https://acnhcdn.com/latest/BookFishIcon/FishSupponCropped.png
+13	snapping turtle	https://acnhcdn.com/latest/BookFishIcon/FishKamitsukigameCropped.png
+14	tadpole	https://acnhcdn.com/latest/BookFishIcon/FishOtamajakusiCropped.png
+15	frog	https://acnhcdn.com/latest/BookFishIcon/FishKaeruCropped.png
+16	freshwater goby	https://acnhcdn.com/latest/BookFishIcon/FishDonkoCropped.png
+17	loach	https://acnhcdn.com/latest/BookFishIcon/FishDojouCropped.png
+18	catfish	https://acnhcdn.com/latest/BookFishIcon/FishNamazuCropped.png
+19	giant snakehead	https://acnhcdn.com/latest/BookFishIcon/FishRaigyoCropped.png
+20	bluegill	https://acnhcdn.com/latest/BookFishIcon/FishBlueguillCropped.png
+21	yellow perch	https://acnhcdn.com/latest/BookFishIcon/FishYellowparchCropped.png
+22	black bass	https://acnhcdn.com/latest/BookFishIcon/FishBlackbassCropped.png
+23	tilapia	https://acnhcdn.com/latest/BookFishIcon/FishThirapiaCropped.png
+24	pike	https://acnhcdn.com/latest/BookFishIcon/FishPaikuCropped.png
+25	pond smelt	https://acnhcdn.com/latest/BookFishIcon/FishWakasagiCropped.png
+26	sweetfish	https://acnhcdn.com/latest/BookFishIcon/FishAyuCropped.png
+27	cherry salmon	https://acnhcdn.com/latest/BookFishIcon/FishYamameCropped.png
+28	char	https://acnhcdn.com/latest/BookFishIcon/FishOoiwanaCropped.png
+29	golden trout	https://acnhcdn.com/latest/BookFishIcon/FishGoldenTorautoCropped.png
+30	stringfish	https://acnhcdn.com/latest/BookFishIcon/FishItouCropped.png
+31	salmon	https://acnhcdn.com/latest/BookFishIcon/FishSakeCropped.png
+32	king salmon	https://acnhcdn.com/latest/BookFishIcon/FishKingsalmonCropped.png
+33	mitten crab	https://acnhcdn.com/latest/BookFishIcon/FishSyanhaiganiCropped.png
+34	guppy	https://acnhcdn.com/latest/BookFishIcon/FishGuppiCropped.png
+35	nibble fish	https://acnhcdn.com/latest/BookFishIcon/FishDokutaafishCropped.png
+36	angelfish	https://acnhcdn.com/latest/BookFishIcon/FishAngelfishCropped.png
+37	betta	https://acnhcdn.com/latest/BookFishIcon/FishBetaCropped.png
+38	neon tetra	https://acnhcdn.com/latest/BookFishIcon/FishNeontetoraCropped.png
+39	rainbowfish	https://acnhcdn.com/latest/BookFishIcon/FishRainbowfishCropped.png
+40	piranha	https://acnhcdn.com/latest/BookFishIcon/FishPiraniaCropped.png
+41	arowana	https://acnhcdn.com/latest/BookFishIcon/FishArowanaCropped.png
+42	dorado	https://acnhcdn.com/latest/BookFishIcon/FishDoladoCropped.png
+43	gar	https://acnhcdn.com/latest/BookFishIcon/FishGaCropped.png
+44	arapaima	https://acnhcdn.com/latest/BookFishIcon/FishPirarukuCropped.png
+45	saddled bichir	https://acnhcdn.com/latest/BookFishIcon/FishEndorikeriiCropped.png
+46	sturgeon	https://acnhcdn.com/latest/BookFishIcon/FishTyouzameCropped.png
+47	sea butterfly	https://acnhcdn.com/latest/BookFishIcon/FishKurioneCropped.png
+48	sea horse	https://acnhcdn.com/latest/BookFishIcon/FishTatsunootoshigoCropped.png
+49	clown fish	https://acnhcdn.com/latest/BookFishIcon/FishKumanomiCropped.png
+50	surgeonfish	https://acnhcdn.com/latest/BookFishIcon/FishNanyouhagiCropped.png
+51	butterfly fish	https://acnhcdn.com/latest/BookFishIcon/FishChouchouuoCropped.png
+52	Napoleonfish	https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png
+53	zebra turkeyfish	https://acnhcdn.com/latest/BookFishIcon/FishMinokasagoCropped.png
+54	blowfish	https://acnhcdn.com/latest/BookFishIcon/FishFuguCropped.png
+55	puffer fish	https://acnhcdn.com/latest/BookFishIcon/FishHarisenbonCropped.png
+56	anchovy	https://acnhcdn.com/latest/BookFishIcon/FishAntyobiCropped.png
+57	horse mackerel	https://acnhcdn.com/latest/BookFishIcon/FishAjiCropped.png
+58	barred knifejaw	https://acnhcdn.com/latest/BookFishIcon/FishIshidaiCropped.png
+59	sea bass	https://acnhcdn.com/latest/BookFishIcon/FishSuzukiCropped.png
+60	red snapper	https://acnhcdn.com/latest/BookFishIcon/FishTaiCropped.png
+61	dab	https://acnhcdn.com/latest/BookFishIcon/FishKareiCropped.png
+62	olive flounder	https://acnhcdn.com/latest/BookFishIcon/FishHirameCropped.png
+63	squid	https://acnhcdn.com/latest/BookFishIcon/FishIkaCropped.png
+64	moray eel	https://acnhcdn.com/latest/BookFishIcon/FishUtsuboCropped.png
+65	ribbon eel	https://acnhcdn.com/latest/BookFishIcon/FishHanahigeutuboCropped.png
+66	tuna	https://acnhcdn.com/latest/BookFishIcon/FishMaguroCropped.png
+67	blue marlin	https://acnhcdn.com/latest/BookFishIcon/FishKajikiCropped.png
+68	giant trevally	https://acnhcdn.com/latest/BookFishIcon/FishRouninajiCropped.png
+69	mahi mahi	https://acnhcdn.com/latest/BookFishIcon/FishShiiraCropped.png
+70	ocean sunfish	https://acnhcdn.com/latest/BookFishIcon/FishManbouCropped.png
+71	ray	https://acnhcdn.com/latest/BookFishIcon/FishEiCropped.png
+72	saw shark	https://acnhcdn.com/latest/BookFishIcon/FishNokogirizameCropped.png
+73	hammerhead shark	https://acnhcdn.com/latest/BookFishIcon/FishShumokuzameCropped.png
+74	great white shark	https://acnhcdn.com/latest/BookFishIcon/FishSameCropped.png
+75	whale shark	https://acnhcdn.com/latest/BookFishIcon/FishJinbeezameCropped.png
+76	suckerfish	https://acnhcdn.com/latest/BookFishIcon/FishKobanzameCropped.png
+77	football fish	https://acnhcdn.com/latest/BookFishIcon/FishChouchinankouCropped.png
+78	oarfish	https://acnhcdn.com/latest/BookFishIcon/FishRyuuguunotukaiCropped.png
+79	barreleye	https://acnhcdn.com/latest/BookFishIcon/FishDemenigisuCropped.png
+80	coelacanth	https://acnhcdn.com/latest/BookFishIcon/FishSirakansuCropped.png
