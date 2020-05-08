@@ -1,81 +1,81 @@
-#,Name,Critterpedia Image,Sell,Where/How,Weather,NH Jan,NH Feb,NH Mar,NH Apr,NH May,NH Jun,NH Jul,NH Aug,NH Sep,NH Oct,NH Nov,NH Dec
-1,common butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectMonshirochoCropped.png,160,Flying,Any except rain,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM
-2,yellow butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectMonkichoCropped.png,160,Flying,Any except rain,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA
-3,tiger butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectAgehachoCropped.png,240,Flying,Any except rain,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,NA
-4,peacock butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectKarasuagehaCropped.png,2500,Flying near blue/purple/black flowers,Any except rain,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,NA,NA,NA,NA
-5,common bluebottle,https://acnhcdn.com/latest/BookInsectIcon/InsectAosujiagehaCropped.png,300,Flying,Any except rain,NA,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,NA,NA
-6,paper kite butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectOhgomamadaraCropped.png,1000,Flying near flowers,Any except rain,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM
-7,great purple emperor,https://acnhcdn.com/latest/BookInsectIcon/InsectOhmurasakiCropped.png,3000,Flying near flowers,Any except rain,NA,NA,NA,NA,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,NA,NA,NA,NA
-8,monarch butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectOhkabamadaraCropped.png,140,Flying near flowers,Any except rain,NA,NA,NA,NA,NA,NA,NA,NA,4 AM ? 5 PM,4 AM ? 5 PM,4 AM ? 5 PM,NA
-9,emperor butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectMorufuochoCropped.png,4000,Flying near flowers,Any except rain,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,5 PM ~ 8 AM
-10,agrias butterfly,https://acnhcdn.com/latest/BookInsectIcon/InsectMiirotatehaCropped.png,3000,Flying near flowers,Any except rain,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA
-11,Rajah Brooke's birdwing,https://acnhcdn.com/latest/BookInsectIcon/InsectAkaeritoribaneagehaCropped.png,2500,Flying near flowers,Any except rain,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,8 AM ~ 5 PM
-12,Queen Alexandra's birdwing,https://acnhcdn.com/latest/BookInsectIcon/InsectArekisandoratoribaneagehaCropped.png,4000,Flying near flowers,Any except rain,NA,NA,NA,NA,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,NA,NA,NA
-13,moth,https://acnhcdn.com/latest/BookInsectIcon/InsectGaCropped.png,130,Flying near light sources,Any except rain,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM
-14,Atlas moth,https://acnhcdn.com/latest/BookInsectIcon/InsectYonagunisanCropped.png,3000,On trees (any kind),Any weather,NA,NA,NA,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,NA,NA,NA
-15,Madagascan sunset moth,https://acnhcdn.com/latest/BookInsectIcon/InsectNishikiohtsubamegaCropped.png,2500,Flying near flowers,Any except rain,NA,NA,NA,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,NA,NA,NA
-16,long locust,https://acnhcdn.com/latest/BookInsectIcon/InsectShoryobattaCropped.png,200,On the ground,Any weather,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,NA
-17,migratory locust,https://acnhcdn.com/latest/BookInsectIcon/InsectTonosamabattaCropped.png,600,On the ground,Any weather,NA,NA,NA,NA,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,NA
-18,rice grasshopper,https://acnhcdn.com/latest/BookInsectIcon/InsectInagoCropped.png,400,On the ground,Any weather,NA,NA,NA,NA,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,NA
-19,grasshopper,https://acnhcdn.com/latest/BookInsectIcon/InsectKirigirisuCropped.png,160,On the ground,Any except rain,NA,NA,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA
-20,cricket,https://acnhcdn.com/latest/BookInsectIcon/InsectKohrogiCropped.png,130,On the ground,Any except rain,NA,NA,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,NA
-21,bell cricket,https://acnhcdn.com/latest/BookInsectIcon/InsectSuzumushiCropped.png,430,On the ground,Any except rain,NA,NA,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA
-22,mantis,https://acnhcdn.com/latest/BookInsectIcon/InsectKamakiriCropped.png,430,On flowers,Any except rain,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA
-23,orchid mantis,https://acnhcdn.com/latest/BookInsectIcon/InsectHanakamakiriCropped.png,2400,On white flowers,Any except rain,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA
-24,honeybee,https://acnhcdn.com/latest/BookInsectIcon/InsectMitsubachiCropped.png,200,Flying near flowers,Any except rain,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA,NA,NA
-25,wasp,https://acnhcdn.com/latest/BookInsectIcon/InsectHachiCropped.png,2500,Shaking trees,Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-26,brown cicada,https://acnhcdn.com/latest/BookInsectIcon/InsectAburazemiCropped.png,250,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA,NA
-27,robust cicada,https://acnhcdn.com/latest/BookInsectIcon/InsectMinminzemiCropped.png,300,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA,NA
-28,giant cicada,https://acnhcdn.com/latest/BookInsectIcon/InsectKumazemiCropped.png,500,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA,NA
-29,walker cicada,https://acnhcdn.com/latest/BookInsectIcon/InsectTsukutsukuhousiCropped.png,400,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA
-30,evening cicada,https://acnhcdn.com/latest/BookInsectIcon/InsectHigurashiCropped.png,550,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,4 AM ~ 8 AM; 4 PM ~ 7 PM,4 AM ~ 8 AM; 4 PM ~ 7 PM,NA,NA,NA,NA
-31,cicada shell,https://acnhcdn.com/latest/BookInsectIcon/InsectSeminonukegaraCropped.png,10,On hardwood/cedar trees,Any weather,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA
-32,red dragonfly,https://acnhcdn.com/latest/BookInsectIcon/InsectAkiakaneCropped.png,180,Flying near water,Any except rain,NA,NA,NA,NA,NA,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,NA,NA
-33,darner dragonfly,https://acnhcdn.com/latest/BookInsectIcon/InsectGinyanmaCropped.png,230,Flying near water,Any except rain,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA
-34,banded dragonfly,https://acnhcdn.com/latest/BookInsectIcon/InsectOniyanmaCropped.png,4500,Flying near water,Any except rain,NA,NA,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA
-35,damselfly,https://acnhcdn.com/latest/BookInsectIcon/InsectItotonboCropped.png,500,Flying near water,Any except rain,NA,NA,NA,NA,All day,All day,All day,All day,NA,NA,NA,NA
-36,firefly,https://acnhcdn.com/latest/BookInsectIcon/InsectHotaruCropped.png,300,Flying near water,Any except rain,NA,NA,NA,NA,NA,7 PM ~ 4 AM,NA,NA,NA,NA,NA,NA
-37,mole cricket,https://acnhcdn.com/latest/BookInsectIcon/InsectOkeraCropped.png,500,Underground (dig where noise is loudest),Any weather,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,All day,All day
-38,pondskater,https://acnhcdn.com/latest/BookInsectIcon/InsectAmenboCropped.png,130,On rivers/ponds,Any weather,NA,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,NA,NA,NA
-39,diving beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectGengorouCropped.png,800,On rivers/ponds,Any weather,NA,NA,NA,NA,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,NA,NA,NA
-40,giant water bug,https://acnhcdn.com/latest/BookInsectIcon/InsectTagameCropped.png,2000,On rivers/ponds,Any weather,NA,NA,NA,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,NA,NA,NA
-41,stinkbug,https://acnhcdn.com/latest/BookInsectIcon/InsectKamemushiCropped.png,120,On flowers,Any except rain,NA,NA,All day,All day,All day,All day,All day,All day,All day,All day,NA,NA
-42,man-faced stink bug,https://acnhcdn.com/latest/BookInsectIcon/InsectJinmenkamemushiCropped.png,1000,On flowers,Any except rain,NA,NA,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,NA,NA
-43,ladybug,https://acnhcdn.com/latest/BookInsectIcon/InsectTentoumushiCropped.png,200,On flowers,Any except rain,NA,NA,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,NA,NA,NA,8 AM ~ 5 PM,NA,NA
-44,tiger beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectHanmyouCropped.png,1500,On the ground,Any except rain,NA,All day,All day,All day,All day,All day,All day,All day,All day,All day,NA,NA
-45,jewel beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectTamamushiCropped.png,2400,On tree stumps,Any except rain,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,NA
-46,violin beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectBaiorinmushiCropped.png,450,On tree stumps,Any except rain,NA,NA,NA,NA,All day,All day,NA,NA,All day,All day,All day,NA
-47,citrus long-horned beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectGomadarakamikiriCropped.png,350,On tree stumps,Any except rain,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-48,rosalia batesi beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectRuriboshikamikiriCropped.png,3000,On tree stumps,Any except rain,NA,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA
-49,blue weevil beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectHousekizoumushiCropped.png,800,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA
-50,dung beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectFunkorogashiCropped.png,3000,Pushing snowballs,Any weather,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,All day
-51,earth-boring dung beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectOhsenchikoganeCropped.png,300,On the ground,Any weather,NA,NA,NA,NA,NA,NA,All day,All day,All day,NA,NA,NA
-52,scarab beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectPurachinakoganeCropped.png,10000,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,11 PM ~ 8 AM,11 PM ~ 8 AM,NA,NA,NA,NA
-53,drone beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectKanabunCropped.png,200,On trees (any kind),Any weather,NA,NA,NA,NA,NA,All day,All day,All day,NA,NA,NA,NA
-54,goliath beetle,https://acnhcdn.com/latest/BookInsectIcon/InsectGoraiasuohtsunohanamuguriCropped.png,8000,On palm trees,Any weather,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA
-55,saw stag,https://acnhcdn.com/latest/BookInsectIcon/InsectNokogirikuwagataCropped.png,2000,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA
-56,miyama stag,https://acnhcdn.com/latest/BookInsectIcon/InsectMiyamakuwagataCropped.png,1000,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA
-57,giant stag,https://acnhcdn.com/latest/BookInsectIcon/InsectOhkuwagataCropped.png,10000,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,11 PM ~ 8 AM,11 PM ~ 8 AM,NA,NA,NA,NA
-58,rainbow stag,https://acnhcdn.com/latest/BookInsectIcon/InsectNijiirokuwagataCropped.png,6000,On trees (any kind),Any weather,NA,NA,NA,NA,NA,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,NA,NA,NA
-59,cyclommatus stag,https://acnhcdn.com/latest/BookInsectIcon/InsectHosoakakuwagataCropped.png,8000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-60,golden stag,https://acnhcdn.com/latest/BookInsectIcon/InsectOugononikuwagataCropped.png,12000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-61,giraffe stag,https://acnhcdn.com/latest/BookInsectIcon/InsectGirafanokogirikuwagataCropped.png,12000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-62,horned dynastid,https://acnhcdn.com/latest/BookInsectIcon/InsectKabutomushiCropped.png,1350,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-63,horned atlas,https://acnhcdn.com/latest/BookInsectIcon/InsectKohkasasuohkabutoCropped.png,8000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-64,horned elephant,https://acnhcdn.com/latest/BookInsectIcon/InsectZoukabutoCropped.png,8000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-65,horned hercules,https://acnhcdn.com/latest/BookInsectIcon/InsectHerakuresuohkabutoCropped.png,12000,On palm trees,Any weather,NA,NA,NA,NA,NA,NA,5 PM ~ 8 AM,5 PM ~ 8 AM,NA,NA,NA,NA
-66,walking stick,https://acnhcdn.com/latest/BookInsectIcon/InsectNanafushiCropped.png,600,On trees (any kind),Any weather,NA,NA,NA,NA,NA,NA,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,NA
-67,walking leaf,https://acnhcdn.com/latest/BookInsectIcon/InsectKonohamushiCropped.png,600,Disguised under trees,Any weather,NA,NA,NA,NA,NA,NA,All day,All day,All day,NA,NA,NA
-68,bagworm,https://acnhcdn.com/latest/BookInsectIcon/InsectMinomushiCropped.png,600,Shaking trees (hardwood or cedar only),Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-69,ant,https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png,80,On rotten turnips,Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-70,hermit crab,https://acnhcdn.com/latest/BookInsectIcon/InsectYadokariCropped.png,1000,Disguised on shoreline,Any weather,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM
-71,wharf roach,https://acnhcdn.com/latest/BookInsectIcon/InsectFunamushiCropped.png,200,On beach rocks,Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-72,fly,https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png,60,"Flying near trash (boots, tires, cans) or rotten turnips",Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-73,mosquito,https://acnhcdn.com/latest/BookInsectIcon/InsectKaCropped.png,130,Flying,Any except rain,NA,NA,NA,NA,NA,5 PM ~ 4 AM,5 PM ~ 4 AM,5 PM ~ 4 AM,5 PM ~ 4 AM,NA,NA,NA
-74,flea,https://acnhcdn.com/latest/BookInsectIcon/InsectNomiCropped.png,70,On villagers,Any weather,NA,NA,NA,All day,All day,All day,All day,All day,All day,All day,All day,NA
-75,snail,https://acnhcdn.com/latest/BookInsectIcon/InsectKatatsumuriCropped.png,250,On rocks/bushes,Rain only,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-76,pill bug,https://acnhcdn.com/latest/BookInsectIcon/InsectDangomushiCropped.png,250,From hitting rocks,Any weather,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,NA,NA,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM
-77,centipede,https://acnhcdn.com/latest/BookInsectIcon/InsectMukadeCropped.png,300,From hitting rocks,Any weather,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,NA,NA,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM
-78,spider,https://acnhcdn.com/latest/BookInsectIcon/InsectKumoCropped.png,600,Shaking trees (hardwood or cedar only),Any weather,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM
-79,tarantula,https://acnhcdn.com/latest/BookInsectIcon/InsectTaranchuraCropped.png,8000,On the ground,Any weather,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,NA,NA,NA,NA,NA,NA,7 PM ~ 4 AM,7 PM ~ 4 AM
-80,scorpion,https://acnhcdn.com/latest/BookInsectIcon/InsectSasoriCropped.png,8000,On the ground,Any weather,NA,NA,NA,NA,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,NA,NA
+#,Name,Sell,Where/How,Weather,NH Jan,NH Feb,NH Mar,NH Apr,NH May,NH Jun,NH Jul,NH Aug,NH Sep,NH Oct,NH Nov,NH Dec
+1,common butterfly,160,°øÁß,Any except rain,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM
+2,yellow butterfly,160,°øÁß,Any except rain,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null
+3,tiger butterfly,240,°øÁß,Any except rain,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,null
+4,peacock butterfly,2500,"ÆÄ¶û, º¸¶ó, °ËÁ¤»ö ²É ÁÖº¯",Any except rain,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,null,null,null,null
+5,common bluebottle,300,°øÁß,Any except rain,null,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,null,null
+6,paper kite butterfly,1000,²É ÁÖº¯,Any except rain,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM
+7,great purple emperor,3000,²É ÁÖº¯,Any except rain,null,null,null,null,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,4 AM ~ 7 PM,null,null,null,null
+8,monarch butterfly,140,²É ÁÖº¯,Any except rain,null,null,null,null,null,null,null,null,4 AM ? 5 PM,4 AM ? 5 PM,4 AM ? 5 PM,null
+9,emperor butterfly,4000,²É ÁÖº¯,Any except rain,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,5 PM ~ 8 AM
+10,agrias butterfly,3000,²É ÁÖº¯,Any except rain,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null
+11,Rajah Brooke's birdwing,2500,²É ÁÖº¯,Any except rain,8 AM ~ 5 PM,8 AM ~ 5 PM,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,8 AM ~ 5 PM
+12,Queen Alexandra's birdwing,4000,²É ÁÖº¯,Any except rain,null,null,null,null,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,null,null,null
+13,moth,130,°øÁß(ºÒºû ±ÙÃ³),Any except rain,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM
+14,Atlas moth,3000,³ª¹«,Any weather,null,null,null,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,null,null,null
+15,Madagascan sunset moth,2500,²É ÁÖº¯,Any except rain,null,null,null,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,8 AM ~ 4 PM,null,null,null
+16,long locust,200,¶¥ À§,Any weather,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,null
+17,migratory locust,600,¶¥ À§,Any weather,null,null,null,null,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,null
+18,rice grasshopper,400,¶¥ À§,Any weather,null,null,null,null,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,null
+19,grasshopper,160,¶¥ À§,Any except rain,null,null,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null
+20,cricket,130,¶¥ À§,Any except rain,null,null,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,null
+21,bell cricket,430,¶¥ À§,Any except rain,null,null,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null
+22,mantis,430,²É À§,Any except rain,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null
+23,orchid mantis,2400,Èò»ö ²É À§,Any except rain,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null
+24,honeybee,200,²É ÁÖº¯,Any except rain,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null,null,null
+25,wasp,2500,³ª¹«(Èçµé±â),Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+26,brown cicada,250,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null,null
+27,robust cicada,300,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null,null
+28,giant cicada,500,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null,null
+29,walker cicada,400,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null
+30,evening cicada,550,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,4 AM ~ 8 AM; 4 PM ~ 7 PM,4 AM ~ 8 AM; 4 PM ~ 7 PM,null,null,null,null
+31,cicada shell,10,È°¿±¼ö/Ä§¿±¼ö,Any weather,null,null,null,null,null,null,All day,All day,null,null,null,null
+32,red dragonfly,180,°øÁß,Any except rain,null,null,null,null,null,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,null,null
+33,darner dragonfly,230,°øÁß,Any except rain,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null
+34,banded dragonfly,4500,°øÁß,Any except rain,null,null,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null
+35,damselfly,500,°øÁß,Any except rain,null,null,null,null,All day,All day,All day,All day,null,null,null,null
+36,firefly,300,¹°°¡,Any except rain,null,null,null,null,null,7 PM ~ 4 AM,null,null,null,null,null,null
+37,mole cricket,500,¶¥ ¼Ó,Any weather,All day,All day,All day,All day,All day,null,null,null,null,null,All day,All day
+38,pondskater,130,¹° À§,Any weather,null,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,null,null,null
+39,diving beetle,800,¹° À§,Any weather,null,null,null,null,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,8 AM ~ 7 PM,null,null,null
+40,giant water bug,2000,¹° À§,Any weather,null,null,null,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,null,null,null
+41,stinkbug,120,²É À§,Any except rain,null,null,All day,All day,All day,All day,All day,All day,All day,All day,null,null
+42,man-faced stink bug,1000,²É À§,Any except rain,null,null,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,null,null
+43,ladybug,200,²É À§,Any except rain,null,null,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,8 AM ~ 5 PM,null,null,null,8 AM ~ 5 PM,null,null
+44,tiger beetle,1500,¶¥ À§,Any except rain,null,All day,All day,All day,All day,All day,All day,All day,All day,All day,null,null
+45,jewel beetle,2400,±×·çÅÍ±â,Any except rain,null,null,null,All day,All day,All day,All day,All day,null,null,null,null
+46,violin beetle,450,±×·çÅÍ±â,Any except rain,null,null,null,null,All day,All day,null,null,All day,All day,All day,null
+47,citrus long-horned beetle,350,±×·çÅÍ±â,Any except rain,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+48,rosalia batesi beetle,3000,±×·çÅÍ±â,Any except rain,null,null,null,null,All day,All day,All day,All day,All day,null,null,null
+49,blue weevil beetle,800,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,All day,All day,null,null,null,null
+50,dung beetle,3000,´«µ¢ÀÌ,Any weather,All day,All day,null,null,null,null,null,null,null,null,null,All day
+51,earth-boring dung beetle,300,¶¥ À§,Any weather,null,null,null,null,null,null,All day,All day,All day,null,null,null
+52,scarab beetle,10000,³ª¹«,Any weather,null,null,null,null,null,null,11 PM ~ 8 AM,11 PM ~ 8 AM,null,null,null,null
+53,drone beetle,200,³ª¹«,Any weather,null,null,null,null,null,All day,All day,All day,null,null,null,null
+54,goliath beetle,8000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null
+55,saw stag,2000,³ª¹«,Any weather,null,null,null,null,null,null,All day,All day,null,null,null,null
+56,miyama stag,1000,³ª¹«,Any weather,null,null,null,null,null,null,All day,All day,null,null,null,null
+57,giant stag,10000,³ª¹«,Any weather,null,null,null,null,null,null,11 PM ~ 8 AM,11 PM ~ 8 AM,null,null,null,null
+58,rainbow stag,6000,³ª¹«,Any weather,null,null,null,null,null,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,null,null,null
+59,cyclommatus stag,8000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+60,golden stag,12000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+61,giraffe stag,12000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+62,horned dynastid,1350,³ª¹«,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+63,horned atlas,8000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+64,horned elephant,8000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+65,horned hercules,12000,¾ßÀÚ¼ö,Any weather,null,null,null,null,null,null,5 PM ~ 8 AM,5 PM ~ 8 AM,null,null,null,null
+66,walking stick,600,³ª¹«,Any weather,null,null,null,null,null,null,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,4 AM ? 8 AM; 5 PM ~ 7 PM,null
+67,walking leaf,600,³ª¹« ¾Æ·¡ À§Àå,Any weather,null,null,null,null,null,null,All day,All day,All day,null,null,null
+68,bagworm,600,³ª¹«(Èçµé±â) (È°¿±¼ö/Ä§¿±¼ö),Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+69,ant,80,½âÀº ¹«,Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+70,hermit crab,1000,ÇØº¯¿¡¼­ ¼Ò¶ó²®µ¥±â·Î À§Àå,Any weather,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM
+71,wharf roach,200,ÇØº¯ ¾Ï¹Ý,Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+72,fly,60,"¾²·¹±â, ½âÀº ¹«",Any weather,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+73,mosquito,130,°øÁß,Any except rain,null,null,null,null,null,5 PM ~ 4 AM,5 PM ~ 4 AM,5 PM ~ 4 AM,5 PM ~ 4 AM,null,null,null
+74,flea,70,ÁÖ¹Î ¸Ó¸®,Any weather,null,null,null,All day,All day,All day,All day,All day,All day,All day,All day,null
+75,snail,250,"¹ÙÀ§, ³·Àº ¹¦¸ñ",Rain only,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
+76,pill bug,250,¹ÙÀ§ Ä¡±â,Any weather,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,null,null,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM,11 PM ~ 4 PM
+77,centipede,300,¹ÙÀ§ Ä¡±â,Any weather,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,null,null,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM,4 PM ~ 11 PM
+78,spider,600,³ª¹«(Èçµé±â) (È°¿±¼ö/Ä§¿±¼ö),Any weather,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM,7 PM ~ 8 AM
+79,tarantula,8000,¶¥ À§,Any weather,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,null,null,null,null,null,null,7 PM ~ 4 AM,7 PM ~ 4 AM
+80,scorpion,8000,¶¥ À§,Any weather,null,null,null,null,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,7 PM ~ 4 AM,null,null

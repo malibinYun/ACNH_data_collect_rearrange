@@ -2,87 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3255223c-db34-4243-8c41-e405352510c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_001_commonbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_002_yellowbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_003_tigerbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_004_peacockbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_005_commonbluebottle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_006_paperkitebutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_007_greatpurpleemperor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_008_monarchbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_009_emperorbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_010_agriasbutterfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_011_rajahbrookesbirdwing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_012_queenalexandrasbirdwing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_013_moth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_014_atlasmoth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_015_madagascansunsetmoth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_016_longlocust.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_017_migratorylocust.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_018_ricegrasshopper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_019_grasshopper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_020_cricket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_021_bellcricket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_022_mantis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_023_orchidmantis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_024_honeybee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_025_wasp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_026_browncicada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_027_robustcicada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_028_giantcicada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_029_walkercicada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_030_eveningcicada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_031_cicadashell.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_032_reddragonfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_033_darnerdragonfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_034_bandeddragonfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_035_damselfly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_036_firefly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_037_molecricket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_038_pondskater.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_039_divingbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_040_giantwaterbug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_041_stinkbug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_042_manfacedstinkbug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_043_ladybug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_044_tigerbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_045_jewelbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_046_violinbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_047_citruslonghornedbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_048_rosaliabatesibeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_049_blueweevilbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_050_dungbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_051_earthboringdungbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_052_scarabbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_053_dronebeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_054_goliathbeetle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_055_sawstag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_056_miyamastag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_057_giantstag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_058_rainbowstag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_059_cyclommatusstag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_060_goldenstag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_061_giraffestag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_062_horneddynastid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_063_hornedatlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_064_hornedelephant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_065_hornedhercules.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_066_walkingstick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_067_walkingleaf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_068_bagworm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_069_ant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_070_hermitcrab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_071_wharfroach.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_072_fly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_073_mosquito.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_074_flea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_075_snail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_076_pillbug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_077_centipede.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_078_spider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_079_tarantula.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted/bug/ic_bug_080_scorpion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/image/BugCrawling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/image/BugCrawling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -99,17 +20,34 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/BugCrawling.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="207">
+                  <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Fish.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="35" selection-start-line="35" selection-end-line="42" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/basedb/Fish.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/image/VillagerExterior.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/image/BugCrawling.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt" />
       </list>
     </option>
   </component>
@@ -233,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588961629483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588962102643" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -376,7 +315,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22763000" />
+    <option name="totallyTimeSpent" value="23241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +339,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,13 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Fish.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="53" selection-start-line="53" selection-end-line="60" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/FishCrawling.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -551,8 +483,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/BugCrawling.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="1265">
+          <caret line="59" column="79" lean-forward="true" selection-start-line="59" selection-start-column="79" selection-end-line="59" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Fish.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" selection-start-line="35" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
