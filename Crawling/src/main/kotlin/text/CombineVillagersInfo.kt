@@ -54,14 +54,34 @@ data class Villager(
     val gender: String,
     val birthDay: String,
     val personality: String,
+    val species: String,
     val phraseKor: String,
     val phraseEng: String,
-    val species: String,
-    val coffeeBeans: String,
-    val milkAmount: String,
-    val sugarCount: Int
+    val coffeeBeans: String?,
+    val milkAmount: String?,
+    val sugarCount: Int?
 ) {
     override fun toString(): String {
-        return "$amiiboIndex,$nameKor,$nameJpn,$nameEng,$gender,$birthDay,$personality,$phraseKor,$phraseEng,$species,$coffeeBeans,$milkAmount,$sugarCount"
+        return "$amiiboIndex,$nameKor,$nameJpn,$nameEng,$gender,$birthDay,$personality,$species,$phraseKor,$phraseEng,$coffeeBeans,$milkAmount,$sugarCount"
+    }
+
+    companion object {
+        fun of(cursor: List<String>): Villager {
+            return Villager(
+                cursor[0],
+                cursor[1],
+                cursor[2],
+                cursor[3],
+                cursor[4],
+                cursor[5],
+                cursor[6],
+                cursor[7],
+                cursor[8],
+                cursor[9],
+                cursor[10],
+                cursor[11],
+                cursor[12].toIntOrNull()
+            )
+        }
     }
 }

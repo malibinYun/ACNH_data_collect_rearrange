@@ -12,6 +12,7 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     implementation "org.jsoup:jsoup:1.13.1"
+    implementation "org.seleniumhq.selenium:selenium-java:3.141.59"
 }
 
 compileKotlin {
