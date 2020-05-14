@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3255223c-db34-4243-8c41-e405352510c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/가구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/가방.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/도구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/러그.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/모자.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/바닥.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/벽걸이.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/벽지.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/사진.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/상의.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/신발.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/액세서리.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/양말.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/우산.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/울타리.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/음악.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/잡화.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/포스터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/하의.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/한벌 옷.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/javacrawling.crawling.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/javacrawling.crawling.main.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,19 +47,31 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerCrawling.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
-                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="575">
+                  <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerExterior.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#15#83#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerExterior.kt">
+            <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+                <state relative-caret-position="504">
+                  <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
                   <folding>
-                    <element signature="e#15#83#0" expanded="true" />
+                    <element signature="e#16#66#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -50,17 +84,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerInterior.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="44" column="68" lean-forward="true" selection-start-line="44" selection-start-column="68" selection-end-line="44" selection-end-column="68" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/kotlin/text/CombineVillagersInfo.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1104">
-                  <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+                <state relative-caret-position="779">
+                  <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
                 </state>
               </provider>
             </entry>
@@ -91,7 +116,6 @@
       <find>re</find>
       <find>System</find>
       <find>replace(&quot;\</find>
-      <find>null</find>
       <find>css</find>
       <find>img</find>
       <find>1db</find>
@@ -101,6 +125,8 @@
       <find>https://pbs.twimg.com/media/EVpq07xUMAEM-8U</find>
       <find>\u</find>
       <find>&quot;%03d&quot;.forma</find>
+      <find>null</find>
+      <find>É</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,6 +148,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/text/CombineVillagersInfo.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/image/VillagerInterior.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" />
       </list>
     </option>
   </component>
@@ -138,7 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +219,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -203,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589307180482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589446081621" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -233,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.image.VillagerInteriorKt">
+  <component name="RunManager" selected="Kotlin.basedb.CatalogKt">
     <configuration name="basedb.BugKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="javacrawling.crawling.main" />
       <option name="VM_PARAMETERS" />
@@ -247,6 +274,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="basedb.CatalogKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="javacrawling.crawling.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basedb.CatalogKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="basedb.ReactionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="javacrawling.crawling.main" />
       <option name="VM_PARAMETERS" />
@@ -255,19 +295,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="basedb.ReactionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="image.BugCrawlingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="javacrawling.crawling.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="image.BugCrawlingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -301,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.basedb.CatalogKt" />
         <item itemvalue="Kotlin.image.VillagerInteriorKt" />
         <item itemvalue="Kotlin.basedb.ReactionKt" />
         <item itemvalue="Kotlin.image.ReactionKt" />
         <item itemvalue="Kotlin.basedb.BugKt" />
-        <item itemvalue="Kotlin.image.BugCrawlingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -346,11 +373,12 @@
       <workItem from="1589193649824" duration="4426000" />
       <workItem from="1589282082238" duration="14150000" />
       <workItem from="1589385720149" duration="604000" />
+      <workItem from="1589441240138" duration="4644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45960000" />
+    <option name="totallyTimeSpent" value="50604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,6 +391,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -481,16 +510,6 @@
     <entry file="file://$PROJECT_DIR$/raw/fish_index_nameKor.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="e#16#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/FossilCrawling.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -549,34 +568,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/text/CombineVillagersInfo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerInterior.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerCrawling.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="575">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerExterior.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="299">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding>
             <element signature="e#15#83#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/image/VillagerInterior.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="44" column="68" lean-forward="true" selection-start-line="44" selection-start-column="68" selection-end-line="44" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/text/CombineVillagersInfo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="504">
+          <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+          <folding>
+            <element signature="e#16#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

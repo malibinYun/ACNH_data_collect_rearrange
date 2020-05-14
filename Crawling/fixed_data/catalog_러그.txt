@@ -1,0 +1,133 @@
+nameKor,Name,Image,DIY,Buy,Sell,Size,Source,Source Notes,HHA Concept 1,HHA Concept 2,HHA Series,Tag,Catalog
+알루미늄 매트,aluminum rug,https://acnhcdn.com/latest/FtrIcon/RugRectAluminumM00.png,No,1500,375,3x2 ,Saharah,Medium rug,garden,outdoors,None,Slender Rugs,For sale
+사과 러그,apple rug,https://acnhcdn.com/latest/FtrIcon/RugOtherAppleM00.png,Yes,NFS,1200,3x3 ,Crafting,Medium rug,fancy,child's room,fruits,Fruit Rugs,Not for sale
+벨 주머니 러그,Bell-bag rug,https://acnhcdn.com/latest/FtrIcon/RugOtherBellM00.png,No,NFS,6000,3x3,Nook Miles Shop,Medium rug,expensive,None,None,Park Rugs,Not for sale
+흑백 블록 러그,black blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM03.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,None,None,Pattern Rugs,For sale
+검정 우드 덱 러그,black wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM03.png,No,1500,375,3x2 ,Saharah,Medium rug,outdoors,None,None,Wood Rugs,For sale
+검정 패턴 키친 매트,black-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS03.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+파란 아가일 러그,blue argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL02.png,No,2000,500,4x3 ,Saharah,Large rug,living room,expensive,None,Slender Pattern Rugs,For sale
+파란 블록 러그,blue blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM01.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,None,None,Pattern Rugs,For sale
+블루 도트 러그,blue dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL03.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+파란 킬림 카펫,blue kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL01.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+파란 키친 매트,blue kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS02.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+파란 라운드 매트 M,blue medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM02.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,child's room,None,Shaggy Round Rugs,For sale
+파란 메시지 매트,blue message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS01.png,No,1000,250,2x1 ,Saharah,Small rug,child's room,None,None,Message Mats,For sale
+파란 페르시아 융단,blue Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL01.png,No,2000,500,5x5 ,Saharah,Large rug,expensive,living room,None,Pattern Rugs,For sale
+파란 복슬복슬 러그,blue shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL02.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+파란 라운드 매트 S,blue small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS02.png,No,1000,250,2x2 ,Saharah,Small rug,living room,child's room,None,Shaggy Round Rugs,For sale
+파란 줄무늬 러그,blue stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL02.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+파란 비닐 시트,blue vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM01.png,No,1500,375,3x2 ,Saharah,Medium rug,garden,None,None,Slender Pattern Rugs,For sale
+파란 웨이브 러그,blue wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL02.png,No,2000,500,4x3 ,Saharah,Large rug,living room,child's room,None,Slender Pattern Rugs,For sale
+하늘색 웨딩 러그,blue wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM00.png,No,1500,375,3x2,,Medium rug,party,expensive,wedding,Slender Pattern Rugs,Not for sale
+파란 패턴 키친 매트,blue-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS01.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+보태니컬 러그,botanical rug,https://acnhcdn.com/latest/FtrIcon/RugRectBotanicalL00.png,No,2000,500,4x3 ,Saharah,Large rug,living room,None,None,Slender Pattern Rugs,For sale
+갈색 아가일 러그,brown argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL03.png,No,2000,500,4x3 ,Saharah,Large rug,living room,expensive,None,Slender Pattern Rugs,For sale
+갈색 키친 매트,brown kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS00.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+갈색 복슬복슬 러그,brown shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL01.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+갈색 우드 덱 러그,brown wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM00.png,No,1500,375,3x2 ,Saharah,Medium rug,outdoors,None,None,Wood Rugs,For sale
+이스터 러그,Bunny Day rug,https://acnhcdn.com/latest/FtrIcon/RugOtherEasterM00.png,Yes,NFS,2400,3x3,Crafting,,fancy,child's room,Bunny Day,Icon Rugs,Not for sale
+체리 러그,cherry rug,https://acnhcdn.com/latest/FtrIcon/RugOtherCherryM00.png,Yes,NFS,1200,3x3 ,Crafting,,fancy,child's room,fruits,Fruit Rugs,Not for sale
+컬러풀 비닐 시트,colorful vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM00.png,No,1500,375,3x2 ,Saharah,Medium rug,garden,None,None,Slender Pattern Rugs,For sale
+어두운 대나무 러그,dark bamboo rug,https://acnhcdn.com/latest/FtrIcon/RugRectBambooM01.png,Yes,NFS,960,3x2 ,Crafting,,zen-style,None,None,Wood Rugs,Not for sale
+지구 러그,Earth rug,https://acnhcdn.com/latest/FtrIcon/RugRoundEarthM00.png,No,1500,375,3x3 ,Saharah,Medium rug,space,child's room,None,Icon Rugs,For sale
+물고기 러그,fish rug,https://acnhcdn.com/latest/FtrIcon/RugOtherFishM00.png,No,NFS,375,3x3 ,Fishing Tourney,,ocean,child's room,None,Icon Rugs,Not for sale
+몽실몽실 러그,fluffy rug,https://acnhcdn.com/latest/FtrIcon/RugOtherCloudM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Icon Rugs,For sale
+화석 러그,fossil rug,https://acnhcdn.com/latest/FtrIcon/RugOtherFossilM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Park Rugs,For sale
+초록 체크 퀼트 러그,green checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL03.png,No,2000,500,4x4 ,Saharah,Large rug,living room,child's room,None,Pattern Rugs,For sale
+초록 킬림 카펫,green kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL02.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+초록 키친 매트,green kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS03.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+초록 복슬복슬 러그,green shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL00.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+초록 줄무늬 러그,green stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL03.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+아이언 현관 매트,iron entrance mat,https://acnhcdn.com/latest/FtrIcon/RugRectIronmatS00.png,No,1000,250,2x1 ,Saharah,Small rug,shop,expensive,iron,Slender Rugs,For sale
+아이보리 라운드 매트 M,ivory medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM00.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,child's room,None,Shaggy Round Rugs,For sale
+아이보리 심플 욕실 매트,ivory simple bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS00.png,No,1000,250,2x1 ,Saharah,Small rug,bathroom,None,None,Slender Rugs,For sale
+아이보리 라운드 매트 S,ivory small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS00.png,No,1000,250,2x2 ,Saharah,Small rug,living room,child's room,None,Shaggy Round Rugs,For sale
+레이스 러그,lacy rug,https://acnhcdn.com/latest/FtrIcon/RugRoundLaceM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,expensive,None,Shaggy Round Rugs,For sale
+무당벌레 러그,ladybug rug,https://acnhcdn.com/latest/FtrIcon/RugRoundLadybirdM00.png,No,NFS,375,3x3 ,Bug-Off,,fancy,child's room,None,Icon Rugs,Not for sale
+밝은 대나무 러그,light bamboo rug,https://acnhcdn.com/latest/FtrIcon/RugRectBambooM00.png,Yes,NFS,2400,3x2 ,Crafting,,zen-style,None,None,Wood Rugs,Not for sale
+마법진 러그,magic-circle rug,https://acnhcdn.com/latest/FtrIcon/RugRoundMagicM00.png,No,1500,375,3x3 ,Saharah,Medium rug,horror,child's room,None,Shaggy Round Rugs,For sale
+모던 웨이브 러그,modern wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL00.png,No,2000,500,4x3 ,Saharah,Large rug,living room,child's room,None,Slender Pattern Rugs,For sale
+쿨한 엄마의 키친 매트,Mom's cool kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS00.png,No,NFS,88,2x1 ,Mom,,fancy,kitchen,motherly,Kitchen Rugs,Not for sale
+발랄한 엄마의 키친 매트,Mom's lively kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS02.png,No,NFS,88,2x1 ,Mom,,fancy,kitchen,motherly,Kitchen Rugs,Not for sale
+짓궂은 엄마의 키친 매트,Mom's playful kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS01.png,No,NFS,88,2x1 ,Mom,,fancy,kitchen,motherly,Kitchen Rugs,Not for sale
+든든한 엄마의 키친 매트,Mom's reliable kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS03.png,No,NFS,88,2x1 ,Mom,,fancy,kitchen,motherly,Kitchen Rugs,Not for sale
+흑백 도트 러그,monochromatic dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL00.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+흑백 웨이브 러그,monochromatic wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL01.png,No,2000,500,4x3 ,Saharah,Large rug,living room,child's room,None,Slender Pattern Rugs,For sale
+버섯 러그,mush rug,https://acnhcdn.com/latest/FtrIcon/RugOtherMushM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,mush,Icon Rugs,For sale
+내추럴 우드 덱 러그,natural wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM01.png,No,1500,375,3x2 ,Saharah,Medium rug,outdoors,None,None,Wood Rugs,For sale
+Nook Inc. 보태니컬 러그,Nook Inc. botanical rug,https://acnhcdn.com/latest/FtrIcon/RugOtherTanukiM00.png,No,NFS,5000,3x3,Nook Miles Shop,Medium rug,fancy,living room,None,Park Rugs,Not for sale
+Nook Inc. 러그,Nook Inc. rug,https://acnhcdn.com/latest/FtrIcon/RugOtherLeafM00.png,No,NFS,5000,3x3 ,Nook Miles Shop,Medium rug,fancy,child's room,None,Park Rugs,Not for sale
+Nook Inc. 사각 러그,Nook Inc. silk rug,https://acnhcdn.com/latest/FtrIcon/RugRectTanukiL00.png,No,NFS,3000,4x3,Nook Miles Shop,Large rug,facility,shop,None,Park Rugs,Not for sale
+오렌지 러그,orange rug,https://acnhcdn.com/latest/FtrIcon/RugOtherOrangeM00.png,Yes,NFS,1200,3x3 ,Crafting,Medium rug,fancy,child's room,fruits,Fruit Rugs,Not for sale
+타원형 현관 매트,oval entrance mat,https://acnhcdn.com/latest/FtrIcon/RugOtherCountryS00.png,No,1000,250,2x1 ,Saharah,Small rug,living room,None,None,Slender Rugs,For sale
+분홍 체크 퀼트 러그,peach checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL02.png,No,2000,500,4x4 ,Saharah,Large rug,living room,child's room,None,Pattern Rugs,For sale
+복숭아 러그,peach rug,https://acnhcdn.com/latest/FtrIcon/RugOtherPeachM00.png,Yes,NFS,1200,3x3 ,Crafting,Medium rug,fancy,child's room,fruits,Fruit Rugs,Not for sale
+분홍 줄무늬 러그,peach stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL01.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+배 러그,pear rug,https://acnhcdn.com/latest/FtrIcon/RugOtherPearM00.png,Yes,NFS,1200,3x3 ,Crafting,,fancy,child's room,fruits,Fruit Rugs,Not for sale
+핑크 하트 러그,pink heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Heart Rugs,For sale
+핑크 로즈 러그,pink rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM00.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,expensive,None,Rose Rug,For sale
+퍼플 하트 러그,purple heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM02.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Heart Rugs,For sale
+보라 페르시아 융단,purple Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL03.png,No,2000,500,5x5 ,Saharah,Large rug,expensive,living room,None,Pattern Rugs,For sale
+보라 복슬복슬 러그,purple shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL03.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+빨간 아가일 러그,red argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL01.png,No,2000,500,4x3 ,Saharah,Large rug,living room,expensive,None,Slender Pattern Rugs,For sale
+빨간 블록 러그,red blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM00.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,None,None,Pattern Rugs,For sale
+레드 카펫,red carpet,https://acnhcdn.com/latest/FtrIcon/RugRectElegantM00.png,No,1500,375,3x2 ,Saharah,Medium rug,expensive,None,None,Slender Rugs,For sale
+레드 도트 러그,red dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL02.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+빨간 킬림 카펫,red kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL00.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+빨간 라운드 매트 M,red medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM01.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,child's room,None,Shaggy Round Rugs,For sale
+빨간 메시지 매트,red message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS03.png,No,1000,250,2x1 ,Saharah,Small rug,child's room,None,None,Message Mats,For sale
+빨간 페르시아 융단,red Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL00.png,No,2000,500,5x5 ,Saharah,Large rug,expensive,living room,None,Pattern Rugs,For sale
+레드 로즈 러그,red rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM01.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,expensive,flowers,Rose Rug,For sale
+빨간 라운드 매트 S,red small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS01.png,No,1000,250,2x2 ,Saharah,Small rug,living room,child's room,None,Shaggy Round Rugs,For sale
+빨간 비닐 시트,red vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM02.png,No,1500,375,3x2 ,Saharah,Medium rug,garden,None,None,Slender Pattern Rugs,For sale
+빨간 웨이브 러그,red wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL03.png,No,2000,500,4x3 ,Saharah,Large rug,living room,child's room,None,Slender Pattern Rugs,For sale
+빨간 웨딩 러그,red wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM02.png,No,1500,375,3x2,,Medium rug,party,expensive,wedding,Slender Pattern Rugs,Not for sale
+빨강 파랑 체크 퀼트 러그,red-and-blue checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL00.png,No,2000,500,4x4 ,Saharah,Large rug,living room,child's room,None,Pattern Rugs,For sale
+빨간 패턴 키친 매트,red-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS00.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+복고풍 도트 러그,retro dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL01.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+하드 매트,rough rug,https://acnhcdn.com/latest/FtrIcon/RugRectDoormatS00.png,No,1000,250,2x1 ,Saharah,Small rug,school,facility,None,Slender Rugs,For sale
+고무 신발 닦이 매트,rubber mud mat,https://acnhcdn.com/latest/FtrIcon/RugRectRubberScraperS00.png,No,1000,250,2x1 ,Saharah,Small rug,school,None,None,Slender Rugs,For sale
+낡은 멍석 러그,shanty mat,https://acnhcdn.com/latest/FtrIcon/RugSquareOldStrawL00.png,No,2000,500,4x4 ,Saharah,Large rug,zen-style,None,None,Simple Rugs,For sale
+조개껍데기 러그,shell rug,https://acnhcdn.com/latest/FtrIcon/RugOtherShellM00.png,Yes,NFS,5400,3x3 ,Crafting,,ocean,fancy,shell,Park Rugs,Not for sale
+그린 심플 욕실 매트,simple green bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS03.png,No,1000,250,2x1 ,Saharah,Small rug,bathroom,None,None,Slender Rugs,For sale
+카키 심플 매트 M,simple medium avocado mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM03.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+검정 심플 매트 M,simple medium black mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM07.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+파란 심플 매트 M,simple medium blue mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM02.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+갈색 심플 매트 M,simple medium brown mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM01.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+오렌지 심플 매트 M,simple medium orange mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM05.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+보라 심플 매트 M,simple medium purple mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM06.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+빨간 심플 매트 M,simple medium red mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM04.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+네이비 심플 욕실 매트,simple navy bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS01.png,No,1000,250,2x1 ,Saharah,Small rug,bathroom,None,None,Slender Rugs,For sale
+핑크 심플 욕실 매트,simple pink bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS02.png,No,1000,250,2x1 ,Saharah,Small rug,bathroom,None,None,Slender Rugs,For sale
+카키 심플 매트 S,simple small avocado mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS03.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+검정 심플 매트 S,simple small black mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS07.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+파란 심플 매트 S,simple small blue mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS02.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+갈색 심플 매트 S,simple small brown mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS01.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+오렌지 심플 매트 S,simple small orange mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS05.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+보라 심플 매트 S,simple small purple mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS06.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+빨간 심플 매트 S,simple small red mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS04.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+칠칠치 못한 러그,sloppy rug,https://acnhcdn.com/latest/FtrIcon/RugOtherSloppyL00.png,No,2000,500,4x4 ,Saharah,Large rug,living room,child's room,None,Simple Rugs,For sale
+눈꽃 러그,snowflake rug,https://acnhcdn.com/latest/FtrIcon/RugRoundSnowM00.png,No,1500,375,3x3 ,Saharah,Medium rug,freezing cold,fancy,None,Shaggy Round Rugs,For sale
+일본식 짚 깔개,tatami mat,https://acnhcdn.com/latest/FtrIcon/RugRectTatamiM00.png,No,1500,375,3x2 ,Saharah,Medium rug,zen-style,None,None,Wood Rugs,For sale
+남쪽 섬 러그,tropical rug,https://acnhcdn.com/latest/FtrIcon/RugRoundIslandM00.png,No,1500,375,3x3 ,Saharah,Medium rug,ocean,None,None,Park Rugs,For sale
+블루 하트 러그,turquoise heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM01.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Heart Rugs,For sale
+화이트 하트 러그,white heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM03.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,child's room,None,Heart Rugs,For sale
+하얀 메시지 매트,white message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS00.png,No,1000,250,2x1 ,Saharah,Small rug,child's room,None,None,Message Mats,For sale
+화이트 로즈 러그,white rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM03.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,expensive,flowers,Rose Rug,For sale
+하얀 심플 매트 M,white simple medium mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM00.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,facility,None,Simple Rugs,For sale
+하얀 심플 매트 S,white simple small mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS00.png,No,1000,250,2x2 ,Saharah,Small rug,living room,facility,None,Simple Rugs,For sale
+하얀 웨딩 러그,white wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM03.png,No,1500,375,3x2,,Medium rug,party,expensive,wedding,Slender Pattern Rugs,Not for sale
+하얀 우드 덱 러그,white wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM02.png,No,1500,375,3x2 ,Saharah,Medium rug,outdoors,None,None,Wood Rugs,For sale
+노란 아가일 러그,yellow argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL00.png,No,2000,500,4x3 ,Saharah,Large rug,living room,fancy,None,Slender Pattern Rugs,For sale
+노란 블록 러그,yellow blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM02.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,None,None,Pattern Rugs,For sale
+노란 체크 퀼트 러그,yellow checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL01.png,No,2000,500,4x4 ,Saharah,Large rug,living room,child's room,None,Pattern Rugs,For sale
+노란 킬림 카펫,yellow kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL03.png,No,2000,500,5x5 ,Saharah,Large rug,living room,None,None,Pattern Rugs,For sale
+노란 키친 매트,yellow kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS01.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
+노란 라운드 매트 M,yellow medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM03.png,No,1500,375,3x3 ,Saharah,Medium rug,living room,child's room,None,Shaggy Round Rugs,For sale
+노란 메시지 매트,yellow message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS02.png,No,1000,250,2x1 ,Saharah,Small rug,child's room,None,None,Message Mats,For sale
+노란 페르시아 융단,yellow Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL02.png,No,2000,500,5x5 ,Saharah,Large rug,expensive,living room,None,Pattern Rugs,For sale
+옐로 로즈 러그,yellow rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM02.png,No,1500,375,3x3 ,Saharah,Medium rug,fancy,expensive,flowers,Rose Rug,For sale
+노란 라운드 매트 S,yellow small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS03.png,No,1000,250,2x2 ,Saharah,Small rug,living room,child's room,None,Shaggy Round Rugs,For sale
+노란 줄무늬 러그,yellow stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL00.png,No,2000,500,4x3 ,Saharah,Large rug,fancy,child's room,None,Slender Pattern Rugs,For sale
+노란 비닐 시트,yellow vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM03.png,No,1500,375,3x2 ,Saharah,Medium rug,garden,None,None,Slender Pattern Rugs,For sale
+노란 패턴 키친 매트,yellow-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS02.png,No,1000,250,2x1 ,Saharah,Small rug,kitchen,None,None,Kitchen Rugs,For sale
