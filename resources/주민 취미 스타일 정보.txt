@@ -1,0 +1,15 @@
+
+Cool	쿨한
+Active	활동적인
+Simple	무난
+Elegant	우아한
+Cute	귀여운
+Gorgeous	화려한
+
+
+Education	책 자주읽고 박물관 자주감
+Fashion	옷가게에 자주가고 플레이어의 패션에대해 자주언급
+Fitness	운동과 스트레칭을 자주한다
+Music	노래와 고나련된 모든 행ㅇ도을 자주앟ㅁ
+Nature	관찰을 자주함
+Play	자주 뛰어다님
