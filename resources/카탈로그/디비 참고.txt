@@ -1,0 +1,40 @@
+가구 
+hasVariation
+hasPattern
+만들어줘야한다
+
+Internal ID - 종류 키값
+Variant ID - 변종 키값
+
+변종이 없으면 Variant Id는 NA임.
+
+n_m
+형식으로 이루어져있는데,
+n는 variation 버젼을 의미
+m은 pattern 버전을 의미.
+n이 0이라고 반드시 패턴이 없는게 아님.
+
+짤때는 이름 비교해서 그룹별로 has boolean 값들 생성해주어야할듯.
+
+
+
+
+
+
+Fence	Name	Image	DIY	Buy	Sell	Source	Source Notes	Internal ID			
+Tool	Name	Image	Variation	Body Title	DIY	Customize	Kit Cost	Uses	Stack Size	Buy	Sell	olor 1	Color 2	Size	Source	Source Notes	Variant ID	Internal ID
+Posters	Name	Image	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Catalog	Internal ID
+Photos	Name	Image	Variation	Body Title	Pattern	Pattern Title	DIY	Customize	Kit Cost	Buy	Sell	Color 1	Color 2	Size	Source	Catalog	Variant ID	Internal ID
+Rugs	Name	Image	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	HHA Concept 1	HHA Concept 2	HHA Series	Tag	Catalog	Internal ID
+Floors	Name	Image	VFX	DIY	Buy	Sell	Color 1	Color 2	Source	Source Notes	HHA Concept 1	HHA Concept 2	HHA Series	Tag	Catalog	Internal ID
+Wallpapers	Name	Image	VFX	DIY	Buy	Sell	Color 1	Color 2	Source	Source Notes	Catalog	Window Type	Window Color	Pane Type	Curtain Type	Curtain Color	Ceiling Type	HHA Concept 1	HHA Concept 2	HHA Series	Tag	Internal ID
+Wall-mounted	Name	Image	Variation	Body Title	Pattern	Pattern Title	DIY	Body Customize	Pattern Customize	Kit Cost	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	HHA Concept 1	HHA Concept 2	HHA Series	HHA Set	Tag	Door Deco	Catalog	Variant ID	Internal ID
+Miscellaneous	Name	Image	Variation	Body Title	Pattern	Pattern Title	DIY	Body Customize	Pattern Customize	Kit Cost	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	HHA Concept 1	HHA Concept 2	HHA Series	HHA Set	Tag	Door Deco	Catalog	Variant ID	Internal ID
+Housewares	Name	Image	Variation	Body Title	Pattern	Pattern Title	DIY	Body Customize	Pattern Customize	Kit Cost	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	HHA Concept 1	HHA Concept 2	HHA Series	HHA Set	Tag	Catalog	Variant ID	Internal ID
+Music	Name	Framed Image	Album Image	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Catalog	Internal ID			
+Tops	Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Seasonal Availability	Style	Label Themes	Catalog	Internal ID			
+Bottoms	Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Seasonal Availability	Style	Label Themes	Catalog	Internal ID			
+Dress-Up	Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Seasonal Availability	Style	Label Themes	Catalog	Primary Shape	Secondary Shape	Internal ID
+Headwear	Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Seasonal Availability	Style	Label Themes	Type	Catalog	Internal ID			
+Accessories	Name	Closet Image	Storage Image	Variation	DIY	Buy	Sell	Color 1	Color 2	Size	Source	Source Notes	Seasonal Availability	Style	Label Themes	Type	Catalog	Internal ID
+
