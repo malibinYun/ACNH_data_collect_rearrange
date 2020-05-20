@@ -28,7 +28,7 @@ fun bindNameKor(kind: String, translateKind: String) {
     val stringBuilder = StringBuilder()
     val translateMap = getTranslateMap(translateKind)
     File("raw\\catalog", "$kind.csv").forEachLine {
-        val nameEng = it.split(",")[0]
+        val nameEng = it.replace("\uFEFF", "").split(",")[1]
         val nameKor = translateMap[nameEng]
         stringBuilder
             .append(nameKor).append(",")
@@ -39,8 +39,9 @@ fun bindNameKor(kind: String, translateKind: String) {
         }
     }
 
-    val outputFile = File("fixed_data", "catalog_$kind.txt")
+    val outputFile = File("fixed_data\\catalog", "catalog_$kind.txt")
     outputFile.writeText(stringBuilder.toString())
+//    File("fixed_data\\catalog", "catalog_$kind.csv").writeText(stringBuilder.toString())
     println("Write Success")
 }
 

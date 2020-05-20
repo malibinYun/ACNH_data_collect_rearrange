@@ -1,20 +1,20 @@
-Name,Image,DIY,Buy,Sell,Source,Source Notes
-bamboo lattice fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png,Yes,NFS,960,Crafting,Nook Miles Exchange
-barbed-wire fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png,Yes,NFS,1980,Crafting,Nook Miles Exchange
-brick fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png,Yes,NFS,1200,Crafting,Nook Miles Exchange
-Bunny Day fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png,Yes,NFS,2400,Crafting,"Obtained randomly from villager, egg message bottle or egg balloon during Bunny Day event"
-corral fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png,Yes,NFS,720,Crafting,Nook Miles Exchange
-country fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png,Yes,NFS,720,Crafting,Nook Miles Exchange
-hedge,https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png,Yes,NFS,55,Crafting,Obtained from Tom Nook after completing one Nature Day Nook Miles+ task
-imperial fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png,Yes,NFS,1200,Crafting,Nook Miles Exchange
-iron fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel.png,Yes,NFS,4500,Crafting,Nook Miles Exchange
-iron-and-stone fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png,Yes,NFS,3150,Crafting,Nook Miles Exchange
-lattice fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural.png,Yes,NFS,960,Crafting,Nook Miles Exchange
-rope fence,https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png,Yes,NFS,3000,Crafting,Nook Miles Exchange
-simple wooden fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural.png,Yes,NFS,720,Crafting,Nook Miles Exchange
-spiky fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png,Yes,NFS,960,Crafting,Nook Miles Exchange
-stone fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png,Yes,NFS,600,Crafting,Nook Miles Exchange
-straw fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png,Yes,NFS,560,Crafting,Nook Miles Exchange
-vertical-board fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood.png,Yes,NFS,960,Crafting,Nook Miles Exchange
-wedding fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride.png,Yes,NFS,411,,
-zen fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese.png,Yes,NFS,3300,Crafting,Nook Miles Exchange
+﻿Internal ID,Name,Image,Buy,Sell,Source,Source Notes,Color 1,Color 2,Catalog,DIY,Size
+3403,bamboo lattice fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png,null,960,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+5213,barbed-wire fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png,null,1980,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+3080,brick fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png,null,1200,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+12630,Bunny Day fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png,null,2400,Crafting,"주민에게 받기, 부활절 이벤트 때 DIY 보틀, 풍선으로 얻기",,,Not in catalog,Yes,1x1
+4349,corral fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png,null,720,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+4350,country fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png,null,720,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+12758,hedge,https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png,null,55,Crafting,지구의날 이벤트 때 너굴 마일리지 플러스 달성 후 너굴에게 받기,,,Not in catalog,Yes,1x1
+4354,imperial fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png,null,1200,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+4357,iron fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel.png,null,4500,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+5206,iron-and-stone fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png,null,3150,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+11712,lattice fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural.png,null,960,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+4352,rope fence,https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png,null,3000,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+11711,simple wooden fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural.png,null,720,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+4358,spiky fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png,null,960,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+5212,stone fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png,null,600,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+4356,straw fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png,null,560,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+3402,vertical-board fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood.png,null,960,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1
+12894,wedding fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride.png,null,411,,,,,Not in catalog,Yes,1x1
+5207,zen fence,https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese.png,null,3300,Crafting,너굴 마일리지 교환,,,Not in catalog,Yes,1x1

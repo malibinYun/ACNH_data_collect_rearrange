@@ -1,0 +1,133 @@
+nameKor,﻿Internal ID,Name,Image,Buy,Sell,Source,Source Notes,Color 1,Color 2,Catalog,DIY,Size,HHA Concept 1,HHA Concept 2,HHA Series
+알루미늄 매트,7356,aluminum rug,https://acnhcdn.com/latest/FtrIcon/RugRectAluminumM00.png,1500,375,사하라,Medium rug,Gray,Gray,For sale,No,3x2 ,garden,outdoors,None
+사과 러그,7327,apple rug,https://acnhcdn.com/latest/FtrIcon/RugOtherAppleM00.png,NFS,1200,Crafting,Medium rug,Red,Red,Not for sale,Yes,3x3 ,fancy,child's room,fruits
+벨 주머니 러그,12214,Bell-bag rug,https://acnhcdn.com/latest/FtrIcon/RugOtherBellM00.png,NFS,6000,너굴 마일 교환,Medium rug,None,None,Not for sale,No,3x3,expensive,None,None
+흑백 블록 러그,11104,black blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM03.png,1500,375,사하라,Medium rug,Black,Gray,For sale,No,3x3 ,living room,None,None
+검정 우드 덱 러그,7382,black wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM03.png,1500,375,사하라,Medium rug,Black,Black,For sale,No,3x2 ,outdoors,None,None
+검정 패턴 키친 매트,7594,black-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS03.png,1000,250,사하라,Small rug,Black,Orange,For sale,No,2x1 ,kitchen,None,None
+파란 아가일 러그,8467,blue argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL02.png,2000,500,사하라,Large rug,Blue,Green,For sale,No,4x3 ,living room,expensive,None
+파란 블록 러그,11102,blue blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM01.png,1500,375,사하라,Medium rug,Blue,Blue,For sale,No,3x3 ,living room,None,None
+블루 도트 러그,7467,blue dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL03.png,2000,500,사하라,Large rug,Blue,Blue,For sale,No,4x3 ,fancy,child's room,None
+파란 킬림 카펫,9316,blue kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL01.png,2000,500,사하라,Large rug,Blue,Black,For sale,No,5x5 ,living room,None,None
+파란 키친 매트,8394,blue kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS02.png,1000,250,사하라,Small rug,Blue,Blue,For sale,No,2x1 ,kitchen,None,None
+파란 라운드 매트 M,9546,blue medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM02.png,1500,375,사하라,Medium rug,Blue,Blue,For sale,No,3x3 ,living room,child's room,None
+파란 메시지 매트,9310,blue message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS01.png,1000,250,사하라,Small rug,Blue,Blue,For sale,No,2x1 ,child's room,None,None
+파란 페르시아 융단,8035,blue Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL01.png,2000,500,사하라,Large rug,Blue,Beige,For sale,No,5x5 ,expensive,living room,None
+파란 복슬복슬 러그,9564,blue shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL02.png,2000,500,사하라,Large rug,Blue,Blue,For sale,No,5x5 ,living room,None,None
+파란 라운드 매트 S,9549,blue small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS02.png,1000,250,사하라,Small rug,Blue,Blue,For sale,No,2x2 ,living room,child's room,None
+파란 줄무늬 러그,7533,blue stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL02.png,2000,500,사하라,Large rug,Blue,White,For sale,No,4x3 ,fancy,child's room,None
+파란 비닐 시트,7404,blue vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM01.png,1500,375,사하라,Medium rug,Blue,Colorful,For sale,No,3x2 ,garden,None,None
+파란 웨이브 러그,7458,blue wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL02.png,2000,500,사하라,Large rug,Blue,Light blue,For sale,No,4x3 ,living room,child's room,None
+하늘색 웨딩 러그,12462,blue wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM00.png,1500,375,,Medium rug,None,None,Not for sale,No,3x2,party,expensive,wedding
+파란 패턴 키친 매트,7595,blue-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS01.png,1000,250,사하라,Small rug,Blue,Black,For sale,No,2x1 ,kitchen,None,None
+보태니컬 러그,7353,botanical rug,https://acnhcdn.com/latest/FtrIcon/RugRectBotanicalL00.png,2000,500,사하라,Large rug,Green,Green,For sale,No,4x3 ,living room,None,None
+갈색 아가일 러그,8468,brown argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL03.png,2000,500,사하라,Large rug,Brown,Yellow,For sale,No,4x3 ,living room,expensive,None
+갈색 키친 매트,7341,brown kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS00.png,1000,250,사하라,Small rug,Brown,Brown,For sale,No,2x1 ,kitchen,None,None
+갈색 복슬복슬 러그,9563,brown shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL01.png,2000,500,사하라,Large rug,Brown,Brown,For sale,No,5x5 ,living room,None,None
+갈색 우드 덱 러그,7323,brown wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM00.png,1500,375,사하라,Medium rug,Brown,Brown,For sale,No,3x2 ,outdoors,None,None
+이스터 러그,7546,Bunny Day rug,https://acnhcdn.com/latest/FtrIcon/RugOtherEasterM00.png,NFS,2400,Crafting,,None,None,Not for sale,Yes,3x3,fancy,child's room,Bunny Day
+체리 러그,7328,cherry rug,https://acnhcdn.com/latest/FtrIcon/RugOtherCherryM00.png,NFS,1200,Crafting,,Red,Red,Not for sale,Yes,3x3 ,fancy,child's room,fruits
+컬러풀 비닐 시트,7359,colorful vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM00.png,1500,375,사하라,Medium rug,Colorful,Colorful,For sale,No,3x2 ,garden,None,None
+어두운 대나무 러그,11114,dark bamboo rug,https://acnhcdn.com/latest/FtrIcon/RugRectBambooM01.png,NFS,960,Crafting,,Brown,Brown,Not for sale,Yes,3x2 ,zen-style,None,None
+지구 러그,7357,Earth rug,https://acnhcdn.com/latest/FtrIcon/RugRoundEarthM00.png,1500,375,사하라,Medium rug,Blue,White,For sale,No,3x3 ,space,child's room,None
+물고기 러그,7361,fish rug,https://acnhcdn.com/latest/FtrIcon/RugOtherFishM00.png,NFS,375,낚시대회,,Light blue,Light blue,Not for sale,No,3x3 ,ocean,child's room,None
+몽실몽실 러그,7329,fluffy rug,https://acnhcdn.com/latest/FtrIcon/RugOtherCloudM00.png,1500,375,사하라,Medium rug,White,White,For sale,No,3x3 ,fancy,child's room,None
+화석 러그,7366,fossil rug,https://acnhcdn.com/latest/FtrIcon/RugOtherFossilM00.png,1500,375,사하라,Medium rug,Purple,White,For sale,No,3x3 ,fancy,child's room,None
+초록 체크 퀼트 러그,7464,green checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL03.png,2000,500,사하라,Large rug,Green,Purple,For sale,No,4x4 ,living room,child's room,None
+초록 킬림 카펫,9314,green kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL02.png,2000,500,사하라,Large rug,Green,Green,For sale,No,5x5 ,living room,None,None
+초록 키친 매트,8393,green kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS03.png,1000,250,사하라,Small rug,Green,Green,For sale,No,2x1 ,kitchen,None,None
+초록 복슬복슬 러그,7354,green shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL00.png,2000,500,사하라,Large rug,Green,Green,For sale,No,5x5 ,living room,None,None
+초록 줄무늬 러그,7534,green stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL03.png,2000,500,사하라,Large rug,Green,White,For sale,No,4x3 ,fancy,child's room,None
+아이언 현관 매트,7337,iron entrance mat,https://acnhcdn.com/latest/FtrIcon/RugRectIronmatS00.png,1000,250,사하라,Small rug,Black,Black,For sale,No,2x1 ,shop,expensive,iron
+아이보리 라운드 매트 M,7325,ivory medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM00.png,1500,375,사하라,Medium rug,Beige,White,For sale,No,3x3 ,living room,child's room,None
+아이보리 심플 욕실 매트,7333,ivory simple bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS00.png,1000,250,사하라,Small rug,Beige,Beige,For sale,No,2x1 ,bathroom,None,None
+아이보리 라운드 매트 S,7334,ivory small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS00.png,1000,250,사하라,Small rug,Beige,White,For sale,No,2x2 ,living room,child's room,None
+레이스 러그,7368,lacy rug,https://acnhcdn.com/latest/FtrIcon/RugRoundLaceM00.png,1500,375,사하라,Medium rug,Beige,White,For sale,No,3x3 ,fancy,expensive,None
+무당벌레 러그,7360,ladybug rug,https://acnhcdn.com/latest/FtrIcon/RugRoundLadybirdM00.png,NFS,375,곤충채집대회,,Red,Black,Not for sale,No,3x3 ,fancy,child's room,None
+밝은 대나무 러그,11113,light bamboo rug,https://acnhcdn.com/latest/FtrIcon/RugRectBambooM00.png,NFS,2400,Crafting,,Beige,Brown,Not for sale,Yes,3x2 ,zen-style,None,None
+마법진 러그,7367,magic-circle rug,https://acnhcdn.com/latest/FtrIcon/RugRoundMagicM00.png,1500,375,사하라,Medium rug,Purple,Purple,For sale,No,3x3 ,horror,child's room,None
+모던 웨이브 러그,7350,modern wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL00.png,2000,500,사하라,Large rug,Colorful,Colorful,For sale,No,4x3 ,living room,child's room,None
+쿨한 엄마의 키친 매트,7402,Mom's cool kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS00.png,NFS,88,엄마,,Light blue,Light blue,Not for sale,No,2x1 ,fancy,kitchen,motherly
+발랄한 엄마의 키친 매트,9543,Mom's lively kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS02.png,NFS,88,엄마,,Yellow,Yellow,Not for sale,No,2x1 ,fancy,kitchen,motherly
+짓궂은 엄마의 키친 매트,9542,Mom's playful kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS01.png,NFS,88,엄마,,Pink,Pink,Not for sale,No,2x1 ,fancy,kitchen,motherly
+든든한 엄마의 키친 매트,9541,Mom's reliable kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectMomS03.png,NFS,88,엄마,,Purple,Purple,Not for sale,No,2x1 ,fancy,kitchen,motherly
+흑백 도트 러그,7349,monochromatic dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL00.png,2000,500,사하라,Large rug,Black,White,For sale,No,4x3 ,fancy,child's room,None
+흑백 웨이브 러그,7456,monochromatic wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL01.png,2000,500,사하라,Large rug,Black,White,For sale,No,4x3 ,living room,child's room,None
+버섯 러그,7363,mush rug,https://acnhcdn.com/latest/FtrIcon/RugOtherMushM00.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x3 ,fancy,child's room,mush
+내추럴 우드 덱 러그,7380,natural wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM01.png,1500,375,사하라,Medium rug,Brown,Brown,For sale,No,3x2 ,outdoors,None,None
+Nook Inc. 보태니컬 러그,12325,Nook Inc. botanical rug,https://acnhcdn.com/latest/FtrIcon/RugOtherTanukiM00.png,NFS,5000,너굴 마일 교환,Medium rug,None,None,Not for sale,No,3x3,fancy,living room,None
+Nook Inc. 러그,7364,Nook Inc. rug,https://acnhcdn.com/latest/FtrIcon/RugOtherLeafM00.png,NFS,5000,너굴 마일 교환,Medium rug,Green,Green,Not for sale,No,3x3 ,fancy,child's room,None
+Nook Inc. 사각 러그,12396,Nook Inc. silk rug,https://acnhcdn.com/latest/FtrIcon/RugRectTanukiL00.png,NFS,3000,너굴 마일 교환,Large rug,None,None,Not for sale,No,4x3,facility,shop,None
+오렌지 러그,7330,orange rug,https://acnhcdn.com/latest/FtrIcon/RugOtherOrangeM00.png,NFS,1200,Crafting,Medium rug,Orange,Orange,Not for sale,Yes,3x3 ,fancy,child's room,fruits
+타원형 현관 매트,7370,oval entrance mat,https://acnhcdn.com/latest/FtrIcon/RugOtherCountryS00.png,1000,250,사하라,Small rug,Blue,Blue,For sale,No,2x1 ,living room,None,None
+분홍 체크 퀼트 러그,7463,peach checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL02.png,2000,500,사하라,Large rug,Pink,Light blue,For sale,No,4x4 ,living room,child's room,None
+복숭아 러그,7331,peach rug,https://acnhcdn.com/latest/FtrIcon/RugOtherPeachM00.png,NFS,1200,Crafting,Medium rug,Pink,Pink,Not for sale,Yes,3x3 ,fancy,child's room,fruits
+분홍 줄무늬 러그,7532,peach stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL01.png,2000,500,사하라,Large rug,Pink,White,For sale,No,4x3 ,fancy,child's room,None
+배 러그,7332,pear rug,https://acnhcdn.com/latest/FtrIcon/RugOtherPearM00.png,NFS,1200,Crafting,,Green,Green,Not for sale,Yes,3x3 ,fancy,child's room,fruits
+핑크 하트 러그,7322,pink heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM00.png,1500,375,사하라,Medium rug,Pink,Pink,For sale,No,3x3 ,fancy,child's room,None
+핑크 로즈 러그,7365,pink rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM00.png,1500,375,사하라,Medium rug,Pink,Pink,For sale,No,3x3 ,fancy,expensive,None
+퍼플 하트 러그,7580,purple heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM02.png,1500,375,사하라,Medium rug,Purple,Pink,For sale,No,3x3 ,fancy,child's room,None
+보라 페르시아 융단,8037,purple Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL03.png,2000,500,사하라,Large rug,Purple,Beige,For sale,No,5x5 ,expensive,living room,None
+보라 복슬복슬 러그,9562,purple shaggy rug,https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL03.png,2000,500,사하라,Large rug,Purple,Purple,For sale,No,5x5 ,living room,None,None
+빨간 아가일 러그,8466,red argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL01.png,2000,500,사하라,Large rug,Red,Red,For sale,No,4x3 ,living room,expensive,None
+빨간 블록 러그,11101,red blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM00.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x3 ,living room,None,None
+레드 카펫,7348,red carpet,https://acnhcdn.com/latest/FtrIcon/RugRectElegantM00.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x2 ,expensive,None,None
+레드 도트 러그,7465,red dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL02.png,2000,500,사하라,Large rug,Red,Red,For sale,No,4x3 ,fancy,child's room,None
+빨간 킬림 카펫,9313,red kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL00.png,2000,500,사하라,Large rug,Red,Red,For sale,No,5x5 ,living room,None,None
+빨간 라운드 매트 M,9545,red medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM01.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x3 ,living room,child's room,None
+빨간 메시지 매트,9312,red message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS03.png,1000,250,사하라,Small rug,Red,Red,For sale,No,2x1 ,child's room,None,None
+빨간 페르시아 융단,7347,red Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL00.png,2000,500,사하라,Large rug,Red,Beige,For sale,No,5x5 ,expensive,living room,None
+레드 로즈 러그,8758,red rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM01.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x3 ,fancy,expensive,flowers
+빨간 라운드 매트 S,9548,red small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS01.png,1000,250,사하라,Small rug,Red,Red,For sale,No,2x2 ,living room,child's room,None
+빨간 비닐 시트,7405,red vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM02.png,1500,375,사하라,Medium rug,Red,Colorful,For sale,No,3x2 ,garden,None,None
+빨간 웨이브 러그,7457,red wavy rug,https://acnhcdn.com/latest/FtrIcon/RugRectWaveL03.png,2000,500,사하라,Large rug,Red,Yellow,For sale,No,4x3 ,living room,child's room,None
+빨간 웨딩 러그,12465,red wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM02.png,1500,375,,Medium rug,None,None,Not for sale,No,3x2,party,expensive,wedding
+빨강 파랑 체크 퀼트 러그,7343,red-and-blue checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL00.png,2000,500,사하라,Large rug,Red,Blue,For sale,No,4x4 ,living room,child's room,None
+빨간 패턴 키친 매트,7340,red-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS00.png,1000,250,사하라,Small rug,Red,Black,For sale,No,2x1 ,kitchen,None,None
+복고풍 도트 러그,7466,retro dotted rug,https://acnhcdn.com/latest/FtrIcon/RugRectDotL01.png,2000,500,사하라,Large rug,Green,Green,For sale,No,4x3 ,fancy,child's room,None
+하드 매트,7324,rough rug,https://acnhcdn.com/latest/FtrIcon/RugRectDoormatS00.png,1000,250,사하라,Small rug,Brown,Brown,For sale,No,2x1 ,school,facility,None
+고무 신발 닦이 매트,7339,rubber mud mat,https://acnhcdn.com/latest/FtrIcon/RugRectRubberScraperS00.png,1000,250,사하라,Small rug,Green,Green,For sale,No,2x1 ,school,None,None
+낡은 멍석 러그,7345,shanty mat,https://acnhcdn.com/latest/FtrIcon/RugSquareOldStrawL00.png,2000,500,사하라,Large rug,Brown,Beige,For sale,No,4x4 ,zen-style,None,None
+조개껍데기 러그,7362,shell rug,https://acnhcdn.com/latest/FtrIcon/RugOtherShellM00.png,NFS,5400,Crafting,,Beige,Pink,Not for sale,Yes,3x3 ,ocean,fancy,shell
+그린 심플 욕실 매트,7516,simple green bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS03.png,1000,250,사하라,Small rug,Green,Green,For sale,No,2x1 ,bathroom,None,None
+카키 심플 매트 M,7524,simple medium avocado mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM03.png,1500,375,사하라,Medium rug,Green,Green,For sale,No,3x3 ,living room,facility,None
+검정 심플 매트 M,7539,simple medium black mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM07.png,1500,375,사하라,Medium rug,Black,Black,For sale,No,3x3 ,living room,facility,None
+파란 심플 매트 M,7523,simple medium blue mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM02.png,1500,375,사하라,Medium rug,Blue,Blue,For sale,No,3x3 ,living room,facility,None
+갈색 심플 매트 M,7519,simple medium brown mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM01.png,1500,375,사하라,Medium rug,Brown,Brown,For sale,No,3x3 ,living room,facility,None
+오렌지 심플 매트 M,7536,simple medium orange mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM05.png,1500,375,사하라,Medium rug,Orange,Orange,For sale,No,3x3 ,living room,facility,None
+보라 심플 매트 M,7538,simple medium purple mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM06.png,1500,375,사하라,Medium rug,Purple,Purple,For sale,No,3x3 ,living room,facility,None
+빨간 심플 매트 M,7540,simple medium red mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM04.png,1500,375,사하라,Medium rug,Red,Red,For sale,No,3x3 ,living room,facility,None
+네이비 심플 욕실 매트,7518,simple navy bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS01.png,1000,250,사하라,Small rug,Gray,Gray,For sale,No,2x1 ,bathroom,None,None
+핑크 심플 욕실 매트,7517,simple pink bath mat,https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS02.png,1000,250,사하라,Small rug,Pink,Pink,For sale,No,2x1 ,bathroom,None,None
+카키 심플 매트 S,7520,simple small avocado mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS03.png,1000,250,사하라,Small rug,Green,Green,For sale,No,2x2 ,living room,facility,None
+검정 심플 매트 S,7543,simple small black mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS07.png,1000,250,사하라,Small rug,Black,Black,For sale,No,2x2 ,living room,facility,None
+파란 심플 매트 S,7521,simple small blue mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS02.png,1000,250,사하라,Small rug,Blue,Blue,For sale,No,2x2 ,living room,facility,None
+갈색 심플 매트 S,7522,simple small brown mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS01.png,1000,250,사하라,Small rug,Brown,Brown,For sale,No,2x2 ,living room,facility,None
+오렌지 심플 매트 S,7541,simple small orange mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS05.png,1000,250,사하라,Small rug,Orange,Orange,For sale,No,2x2 ,living room,facility,None
+보라 심플 매트 S,7542,simple small purple mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS06.png,1000,250,사하라,Small rug,Purple,Purple,For sale,No,2x2 ,living room,facility,None
+빨간 심플 매트 S,7537,simple small red mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS04.png,1000,250,사하라,Small rug,Red,Red,For sale,No,2x2 ,living room,facility,None
+칠칠치 못한 러그,7371,sloppy rug,https://acnhcdn.com/latest/FtrIcon/RugOtherSloppyL00.png,2000,500,사하라,Large rug,Light blue,Light blue,For sale,No,4x4 ,living room,child's room,None
+눈꽃 러그,7346,snowflake rug,https://acnhcdn.com/latest/FtrIcon/RugRoundSnowM00.png,1500,375,사하라,Medium rug,Light blue,White,For sale,No,3x3 ,freezing cold,fancy,None
+일본식 짚 깔개,7369,tatami mat,https://acnhcdn.com/latest/FtrIcon/RugRectTatamiM00.png,1500,375,사하라,Medium rug,Green,Yellow,For sale,No,3x2 ,zen-style,None,None
+남쪽 섬 러그,7358,tropical rug,https://acnhcdn.com/latest/FtrIcon/RugRoundIslandM00.png,1500,375,사하라,Medium rug,Green,Beige,For sale,No,3x3 ,ocean,None,None
+블루 하트 러그,7579,turquoise heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM01.png,1500,375,사하라,Medium rug,Light blue,Light blue,For sale,No,3x3 ,fancy,child's room,None
+화이트 하트 러그,7578,white heart rug,https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM03.png,1500,375,사하라,Medium rug,White,White,For sale,No,3x3 ,fancy,child's room,None
+하얀 메시지 매트,7338,white message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS00.png,1000,250,사하라,Small rug,White,White,For sale,No,2x1 ,child's room,None,None
+화이트 로즈 러그,8757,white rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM03.png,1500,375,사하라,Medium rug,White,White,For sale,No,3x3 ,fancy,expensive,flowers
+하얀 심플 매트 M,7335,white simple medium mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM00.png,1500,375,사하라,Medium rug,Beige,White,For sale,No,3x3 ,living room,facility,None
+하얀 심플 매트 S,7336,white simple small mat,https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS00.png,1000,250,사하라,Small rug,Beige,White,For sale,No,2x2 ,living room,facility,None
+하얀 웨딩 러그,12464,white wedding rug,https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM03.png,1500,375,,Medium rug,None,None,Not for sale,No,3x2,party,expensive,wedding
+하얀 우드 덱 러그,7381,white wooden-deck rug,https://acnhcdn.com/latest/FtrIcon/RugRectDeckM02.png,1500,375,사하라,Medium rug,White,White,For sale,No,3x2 ,outdoors,None,None
+노란 아가일 러그,7352,yellow argyle rug,https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL00.png,2000,500,사하라,Large rug,Yellow,Yellow,For sale,No,4x3 ,living room,fancy,None
+노란 블록 러그,11103,yellow blocks rug,https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM02.png,1500,375,사하라,Medium rug,Yellow,Brown,For sale,No,3x3 ,living room,None,None
+노란 체크 퀼트 러그,7462,yellow checked rug,https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL01.png,2000,500,사하라,Large rug,Yellow,Green,For sale,No,4x4 ,living room,child's room,None
+노란 킬림 카펫,9315,yellow kilim-style carpet,https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL03.png,2000,500,사하라,Large rug,Yellow,Beige,For sale,No,5x5 ,living room,None,None
+노란 키친 매트,8395,yellow kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS01.png,1000,250,사하라,Small rug,Yellow,Yellow,For sale,No,2x1 ,kitchen,None,None
+노란 라운드 매트 M,9544,yellow medium round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM03.png,1500,375,사하라,Medium rug,Yellow,Yellow,For sale,No,3x3 ,living room,child's room,None
+노란 메시지 매트,9311,yellow message mat,https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS02.png,1000,250,사하라,Small rug,Yellow,Yellow,For sale,No,2x1 ,child's room,None,None
+노란 페르시아 융단,8036,yellow Persian rug,https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL02.png,2000,500,사하라,Large rug,Yellow,Beige,For sale,No,5x5 ,expensive,living room,None
+옐로 로즈 러그,8759,yellow rose rug,https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM02.png,1500,375,사하라,Medium rug,Yellow,Yellow,For sale,No,3x3 ,fancy,expensive,flowers
+노란 라운드 매트 S,9547,yellow small round mat,https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS03.png,1000,250,사하라,Small rug,Yellow,Yellow,For sale,No,2x2 ,living room,child's room,None
+노란 줄무늬 러그,7351,yellow stripes rug,https://acnhcdn.com/latest/FtrIcon/RugRectBorderL00.png,2000,500,사하라,Large rug,Yellow,White,For sale,No,4x3 ,fancy,child's room,None
+노란 비닐 시트,7403,yellow vinyl sheet,https://acnhcdn.com/latest/FtrIcon/RugRectVinylM03.png,1500,375,사하라,Medium rug,Yellow,Colorful,For sale,No,3x2 ,garden,None,None
+노란 패턴 키친 매트,7596,yellow-design kitchen mat,https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS02.png,1000,250,사하라,Small rug,Yellow,Black,For sale,No,2x1 ,kitchen,None,None
