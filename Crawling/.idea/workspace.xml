@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3255223c-db34-4243-8c41-e405352510c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_가구.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_가방.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_도구.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_러그.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_모자.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_바닥.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_벽걸이.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_벽지.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_사진.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_상의.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_신발.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_액세서리.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_양말.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_우산.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_울타리.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_음악.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_잡화.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_포스터.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_하의.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_한벌옷 - 복사본.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixed_data/catalog_한벌옷.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt$bindNameKor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt$bindNameKor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt$getTranslateMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt$getTranslateMap$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/basedb/CatalogKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/가구.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/가구.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/가방.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/가방.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/도구.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/도구.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/러그.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/러그.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/모자.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/모자.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/바닥.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/바닥.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/벽걸이.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/벽걸이.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/벽지.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/벽지.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/사진.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/사진.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/상의.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/상의.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/신발.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/신발.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/액세서리.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/액세서리.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/양말.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/양말.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/우산.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/우산.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/울타리.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/울타리.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/음악.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/음악.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/잡화.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/잡화.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/포스터.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/포스터.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/하의.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/하의.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/catalog/한벌옷.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw/catalog/한벌옷.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/가구.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/가구.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/가방.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/가방.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/도구.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/도구.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/러그.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/러그.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/모자.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/모자.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/미술품.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/바닥.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/바닥.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/바지.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/벽걸이.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/벽걸이.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/벽지.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/벽지.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/사진.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/사진.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/상의.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/상의.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/신발.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/신발.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/액세서리.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/액세서리.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/양말.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/양말.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/우산.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/우산.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/울타리.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/울타리.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/음악.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/음악.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/잡화.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/잡화.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/카탈디비.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/카탈디비.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/포스터.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/포스터.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/한벌옷.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/한벌옷.csv" afterDir="false" />
-    </list>
+    <list default="true" id="3255223c-db34-4243-8c41-e405352510c0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -144,8 +75,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Villager.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="92">
-                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+                <state relative-caret-position="184">
+                  <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
                   <folding>
                     <element signature="e#16#66#0" expanded="true" />
                   </folding>
@@ -228,63 +159,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="basedb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crawling" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="text" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -295,7 +170,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589828633248" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../algo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../clone code study/lotto" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -443,11 +318,12 @@
       <workItem from="1589820961278" duration="1733000" />
       <workItem from="1589895989872" duration="601000" />
       <workItem from="1589909150815" duration="604000" />
+      <workItem from="1590038785917" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61226000" />
+    <option name="totallyTimeSpent" value="61877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,6 +336,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -689,8 +566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Villager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="184">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding>
             <element signature="e#16#66#0" expanded="true" />
           </folding>
