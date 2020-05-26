@@ -11,11 +11,11 @@ val catalogTranslateList = listOf(
 //가구 : 벽걸이/잡화
 fun main() {
 
-//    bindNameKor("음악","음악")
-    for (kind in catalogTranslateList) {
-        bindNameKor(kind, kind)
-    }
-    bindFurnitureNameKor()
+    bindNameKor("러그","러그")
+//    for (kind in catalogTranslateList) {
+//        bindNameKor(kind, kind)
+//    }
+//    bindFurnitureNameKor()
 }
 
 fun bindFurnitureNameKor() {
@@ -41,7 +41,7 @@ fun bindNameKor(kind: String, translateKind: String) {
 
     val outputFile = File("fixed_data\\catalog", "catalog_$kind.txt")
     outputFile.writeText(stringBuilder.toString())
-//    File("fixed_data\\catalog", "catalog_$kind.csv").writeText(stringBuilder.toString())
+    File("fixed_data\\catalog", "catalog_$kind.csv").writeText(stringBuilder.toString())
     println("Write Success")
 }
 
