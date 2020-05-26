@@ -20,7 +20,7 @@ fun Context.uploadVillagers() {
 
 private fun uploadVillager(villager: FVillager) {
     FirebaseFirestore.getInstance()
-        .collection("villager").document(villager.makeFId())
+        .collection("villagers").document(villager.makeFId())
         .set(villager)
         .addOnSuccessListener { Log.d("Malibin Debug", "${villager.amiiboIndex} 먼가 성공함") }
         .addOnFailureListener { showFailStackTrace(it) }
