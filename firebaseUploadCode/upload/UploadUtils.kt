@@ -24,5 +24,9 @@ fun splitCsv(csv: String): List<String> =
         .split(",")
 
 
-
 fun Context.getBaseFileLocation() = getExternalFilesDir(null)?.absolutePath
+
+fun naChecker(string: String): String? {
+    return if(string == "NA") null
+    else string
+}

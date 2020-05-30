@@ -11,11 +11,15 @@ val catalogTranslateList = listOf(
 //가구 : 벽걸이/잡화
 fun main() {
 
-    bindNameKor("러그","러그")
+//    bindNameKor("러그","러그")
 //    for (kind in catalogTranslateList) {
 //        bindNameKor(kind, kind)
 //    }
 //    bindFurnitureNameKor()
+    bindNameKor("가구", "가구")
+    bindNameKor("신발","신발")
+    bindNameKor("음악","음악")
+
 }
 
 fun bindFurnitureNameKor() {
