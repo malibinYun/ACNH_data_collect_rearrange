@@ -16,9 +16,9 @@ fun main() {
 //        bindNameKor(kind, kind)
 //    }
 //    bindFurnitureNameKor()
-    bindNameKor("가구", "가구")
-    bindNameKor("신발","신발")
-    bindNameKor("음악","음악")
+    bindNameKor("한벌옷", "한벌옷")
+    bindNameKor("모자","모자")
+    bindNameKor("사진","사진")
 
 }
 
