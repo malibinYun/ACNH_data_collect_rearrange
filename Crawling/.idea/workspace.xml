@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a15b9165-50d9-479a-9d15-f7ab06c35c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/가구.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/신발.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/음악.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/가구.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/신발.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/음악.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/잡화.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/잡화.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/가구.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/신발.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/가공완료/음악.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/원본/가구.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/원본/신발.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/다른분/원본/음악.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/가방.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/도구.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/러그.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/모자.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/바닥.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/벽걸이.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/벽지.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/사진.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/상의.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/액세서리.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/양말.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/우산.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/울타리.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/잡화.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/포스터.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/하의.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/번역끝/한벌옷.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/제외/가구.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/제외/신발.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/제외/음악.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/카탈로그/카탈디비.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/카탈로그/카탈디비.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,8 +47,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23">
-                  <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+                <state relative-caret-position="299">
+                  <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -40,7 +60,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="827">
+                <state relative-caret-position="384">
                   <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
                 </state>
               </provider>
@@ -144,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590855035501" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591541932631" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -211,11 +231,12 @@
       <workItem from="1590847300761" duration="984000" />
       <workItem from="1591193095360" duration="837000" />
       <workItem from="1591451219453" duration="599000" />
+      <workItem from="1591538889641" duration="2069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5417000" />
+    <option name="totallyTimeSpent" value="7486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -229,7 +250,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,17 +290,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="384">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Bug.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basedb/Catalog.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
