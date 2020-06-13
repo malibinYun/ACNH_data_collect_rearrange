@@ -1,0 +1,248 @@
+﻿nameKor	Internal ID	Name	Image	Buy	Sell	Source	Source Notes	Color 1	Color 2	Catalog	DIY	Size	VFX	Miles Price
+추상적인 벽지	4873	abstract wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallAbstract00.png	1560	390	너굴 상점		하얀색	컬러풀	구매가능	No		No	
+이집트풍 벽	4936	ancient wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallEgypt00.png	3000	750	사하라		베이지색	갈색	비매품	No		No	
+사과 벽지	4916	apple wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallApple00.png	NFS	4000	제작		빨간색	빨간색	비매품	Yes		No	
+하늘색 타일 벽	4930	aqua tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile01.png	1420	355	너굴 상점		하늘색	하늘색	구매가능	No		No	
+예쁜 창문 벽	5482	arched-window wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlass00.png	2150	537	너굴 상점		갈색	하늘색	구매가능	No		Yes	
+단풍 벽	4905	autumn wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallAutumun00.png	NFS	4700	제작		갈색	주황색	비매품	Yes		Yes	
+뒷마당 벽	5481	backyard-fence wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallBackyard00.png	3000	750	사하라		하늘색	하얀색	비매품	No		Yes	
+대나무 벽	4833	bamboo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBamboo00.png	NFS	2400	제작		초록색	베이지색	비매품	Yes		No	
+대나무 숲 벽	4853	bamboo-grove wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallChikurin00.png	NFS	4300	제작		초록색	초록색	비매품	Yes		No	
+나무 발 벽	4836	bamboo-screen wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRattan00.png	1770	442	너굴 상점		갈색	갈색	구매가능	No		No	
+금고 벽	4839	bank-vault wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSafeBox00.png	3000	750	사하라		회색	회색	비매품	No		No	
+심플 패널 벽	5559	basic wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallSimplePanel00.png	600	150	너굴 상점		하얀색	하얀색	구매가능	No		Yes	
+구슬 커튼 벽	4877	beaded-curtain wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBeadsCurtain00.png	1720	430	너굴 상점		하얀색	주황색	구매가능	No		No	
+베이지 아르데코풍 벽	4817	beige art-deco wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco00.png	2780	695	너굴 상점		베이지색	베이지색	구매가능	No		No	
+베이지 풀꽃 벽	4831	beige blossoming wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry00.png	1760	440	너굴 상점		베이지색	갈색	구매가능	No		No	
+베이지 모로칸 타일 벽	4834	beige desert-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco00.png	2440	610	너굴 상점		베이지색	베이지색	구매가능	No		No	
+블랙 보태니컬 타일 벽	6877	black botanical-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile03.png	1240	310	너굴 상점		검정색	검정색	구매가능	No		No	
+검정 홀 벽	6862	black hallway wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall03.png	2000	500	너굴 상점		검정색	검정색	구매가능	No		No	
+검정 펀칭 보드 벽	4922	black perforated-board wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard02.png	1180	295	너굴 상점		검정색	검정색	구매가능	No		No	
+흑백 투톤 타일 벽	6859	black two-toned tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile06.png	1850	462	너굴 상점		검정색	검정색	구매가능	No		No	
+검정 벽돌 벽	4929	black-brick wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick02.png	1000	250	너굴 상점		검정색	검정색	구매가능	No		No	
+블랙 왕관 벽지	4815	black-crown wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown01.png	2350	587	너굴 상점		검정색	검정색	구매가능	No		No	
+칠판 벽	4882	blackboard wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlackBoard00.png	3000	750	사하라		검정색	컬러풀	비매품	No		No	
+파란 풀꽃 벽	4896	blue blossoming wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry02.png	1760	440	너굴 상점		하늘색	파란색	구매가능	No		No	
+블루 밀리터리 벽지	4884	blue camo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage01.png	1150	287	너굴 상점		파란색	파란색	구매가능	No		No	
+파란 잔꽃무늬 벽지	6852	blue delicate-blooms wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor03.png	1900	475	너굴 상점		파란색	검정색	구매가능	No		No	
+블루 모로칸 타일 벽	4835	blue desert-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco01.png	2440	610	너굴 상점		파란색	하얀색	구매가능	No		No	
+파란 다이너 벽	7241	blue diner wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner00.png	2420	605	너굴 상점		파란색	하늘색	구매가능	No		No	
+파란 꽃무늬 벽지	6873	blue flower-print wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower03.png	1780	445	너굴 상점		파란색	하늘색	구매가능	No		No	
+블루 하트 벽지	4874	blue heart-pattern wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart00.png	1280	320	너굴 상점		파란색	하늘색	구매가능	No		No	
+파란 육각 타일 벽	4912	blue honeycomb-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb01.png	1680	420	너굴 상점		파란색	파란색	구매가능	No		No	
+파란 텍스타일 벽	4848	blue intricate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop00.png	1570	392	너굴 상점		파란색	하얀색	구매가능	No		No	
+블루 패널 몰드 벽	4871	blue molded-panel wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold01.png	1980	495	너굴 상점		파란색	갈색	구매가능	No		No	
+파란 페인트 우드 벽	4948	blue painted-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood00.png	1650	412	너굴 상점		파란색	하늘색	구매가능	No		No	
+파란 놀이방 벽지	4888	blue playroom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy00.png	2540	635	너굴 상점		하늘색	파란색	구매가능	No		No	
+블루 퀼트 벽	7277	blue quilt wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse01.png	2150	537	너굴 상점		파란색	하얀색	구매가능	No		No	
+블루 강판 벽	4925	blue shanty wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin02.png	620	155	너굴 상점		파란색	파란색	구매가능	No		No	
+파란 심플 벽지	4869	blue simple-cloth wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple03.png	750	187	너굴 상점		파란색	하늘색	구매가능	No		No	
+파란 메트로 타일 벽	4940	blue subway-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro00.png	1340	335	너굴 상점		파란색	하늘색	구매가능	No		No	
+파란 타일 벽	7127	blue tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile03.png	1420	355	너굴 상점		파란색	파란색	구매가능	No		No	
+파란 투톤 타일 벽	6858	blue two-toned tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile05.png	1850	462	너굴 상점		파란색	파란색	구매가능	No		No	
+블루 왕관 벽지	4814	blue-crown wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown00.png	2350	587	너굴 상점		파란색	검정색	구매가능	No		No	
+파란 페인트 벽	4811	blue-paint wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco03.png	1600	400	너굴 상점		파란색	파란색	구매가능	No		No	
+파란 장미 벽지	6869	blue-rose wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose03.png	1720	430	너굴 상점		파란색	하늘색	구매가능	No		No	
+블루 줄무늬 벽지	4945	blue-striped wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe03.png	1520	380	너굴 상점		파란색	하얀색	구매가능	No		No	
+보태니컬 타일 벽	6876	botanical-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile02.png	1240	310	너굴 상점		베이지색	노란색	구매가능	No		No	
+브라운 보태니컬 타일 벽	4827	brown botanical-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile01.png	1240	310	너굴 상점		갈색	갈색	구매가능	No		No	
+갈색 다이너 벽	7244	brown diner wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner03.png	2420	605	너굴 상점		갈색	컬러풀	구매가능	No		No	
+갈색 홀 벽	4806	brown hallway wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall00.png	2000	500	너굴 상점		갈색	갈색	구매가능	No		No	
+갈색 헤링본 벽	4804	brown herringbone wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone00.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+브라운 강판 벽	4926	brown shanty wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin03.png	620	155	너굴 상점		갈색	갈색	구매가능	No		No	
+갈색 웨딩 벽	12468	brown wedding wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch01.png	3000	750	웨딩 이벤트		None	None	비매품	No		No	
+갈색 벽돌 벽	6850	brown-brick wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick03.png	1000	250	너굴 상점		갈색	갈색	구매가능	No		No	
+브라운 왕관 벽지	6851	brown-crown wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown03.png	2350	587	너굴 상점		갈색	갈색	구매가능	No		No	
+이스터 벽지	5231	Bunny Day wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallEaster00.png	NFS	4800	제작		노란색	컬러풀	비매품	Yes		No	
+나비 벽지	4880	butterflies wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallInsect00.png	NFS	840	곤충채집대회		하얀색	컬러풀	비매품	No		No	
+통나무집 벽	4840	cabin wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallLog00.png	NFS	1800	제작		베이지색	베이지색	비매품	Yes		No	
+카페 커튼 벽	5483	café-curtain wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallCafe00.png	3000	750	사하라		검정색	하얀색	비매품	No		Yes	
+밀리터리 벽지	4883	camo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage00.png	1150	287	너굴 상점		검정색	초록색	구매가능	No		No	
+공터 벽	5485	chain-link fence	https://acnhcdn.com/latest/FtrIcon/RoomSpWallEmptyLot00.png	3000	750	사하라		회색	회색	비매품	No		Yes	
+체리 벽지	4919	cherry wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCherry00.png	NFS	4000	제작		분홍색	빨간색	비매품	Yes		No	
+벚나무길 벽	7205	cherry-blossom-trees wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallSakura00.png	NFS	4600	제작		갈색	분홍색	비매품	Yes		Yes	
+시크한 다도실 벽	11176	chic tearoom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud03.png	1750	437	너굴 상점		검정색	검정색	구매가능	No		No	
+클래식 벽지	4828	chic wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallClassic00.png	1960	490	너굴 상점		노란색	베이지색	구매가능	No		No	
+고동색 홀 벽	4807	chocolate hallway wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall01.png	2000	500	너굴 상점		갈색	갈색	구매가능	No		No	
+고동색 헤링본 벽	4805	chocolate herringbone wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone01.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+전자 회로 벽	4821	circuit-board wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallGeek00.png	3000	750	사하라		초록색	초록색	비매품	No		No	
+야경 벽	5400	cityscape wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallNightView00.png	3000	750	사하라		검정색	검정색	비매품	No		Yes	
+도서관 벽	4837	classic-library wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary00.png	NFS	1450	제작		검정색	검정색	비매품	Yes		No	
+컬러풀 퍼즐 벽지	4887	colorful puzzle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle01.png	1540	385	너굴 상점		컬러풀	컬러풀	구매가능	No		No	
+컬러풀 타일 벽	4931	colorful-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile02.png	1420	355	너굴 상점		컬러풀	컬러풀	구매가능	No		No	
+평범한 벽	4795	common wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCommon00.png	800	200	너굴 상점		베이지색	갈색	구매가능	No		No	
+콘크리트 벽	4890	concrete wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallConcrete00.png	940	235	너굴 상점		회색	회색	구매가능	No		No	
+공사 현장 벽	4843	construction-site wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlueSheet00.png	3000	750	사하라		파란색	파란색	비매품	No		No	
+면직물 무늬 벽지	4841	crepe-design wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrepe00.png	1550	387	너굴 상점		하얀색	컬러풀	구매가능	No		No	
+블루 큐트 벽	7217	cute blue wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute02.png	1880	470	너굴 상점		파란색	하얀색	구매가능	No		No	
+레드 큐트 벽	7216	cute red wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute01.png	1880	470	너굴 상점		빨간색	하얀색	구매가능	No		No	
+화이트 큐트 벽	7215	cute white wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute00.png	1880	470	너굴 상점		하얀색	하얀색	구매가능	No		No	
+옐로 큐트 벽	7218	cute yellow wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute03.png	1880	470	너굴 상점		노란색	하얀색	구매가능	No		No	
+짙은 색 나무로 짠 벽	4860	dark wooden-mosaic wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood01.png	NFS	1800	제작		검정색	검정색	비매품	Yes		No	
+다크 초콜릿 벽	4932	dark-chocolate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate00.png	3000	750	사하라		갈색	갈색	비매품	No		No	
+사막 벽	5488	desert vista	https://acnhcdn.com/latest/FtrIcon/RoomSpWallDesert00.png	3000	750	사하라		베이지색	회색	비매품	No		Yes	
+지층 벽	5222	dig-site wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStratum00.png	3000	750	사하라		갈색	베이지색	비매품	No		No	
+낡은 토벽	4856	dirt-clod wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallOldSoil00.png	200	50	너굴 상점		베이지색	갈색	구매가능	No		No	
+씨름판 벽	5227	dojo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBaseboards00.png	3000	750	사하라		노란색	베이지색	비매품	No		No	
+지하 감옥 벽	5509	dungeon wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallJail00.png	3000	750	사하라		검정색	회색	비매품	No		Yes	
+차이나풍 벽	4866	exquisite wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallChina00.png	3000	750	사하라		갈색	하얀색	비매품	No		No	
+버섯숲 벽지	7187	forest wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMushForest00.png	NFS	44000	제작		검정색	검정색	비매품	Yes		No	
+오버 테크놀로지 벽	5494	future-tech wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallTechnology00.png	3000	750	사하라		검정색	검정색	비매품	No		Yes	
+쓰레기 더미 벽	5229	garbage-heap wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallGarbage00.png	NFS	120	제작		하늘색	회색	비매품	Yes		No	
+황금 미닫이 문 벽	4820	gold-screen wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusumaGorgeous00.png	NFS	20750	제작		노란색	노란색	비매품	Yes		No	
+황금 벽	4894	golden wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallGold00.png	NFS	40000	제작		노란색	갈색	비매품	Yes		No	
+하얀 다이너 벽	7243	gray diner wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner02.png	2420	605	너굴 상점		하얀색	컬러풀	구매가능	No		No	
+그레이 패널 몰드 벽	4872	gray molded-panel wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold02.png	1980	495	너굴 상점		회색	회색	구매가능	No		No	
+그레이 강판 벽	4923	gray shanty wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin00.png	620	155	너굴 상점		회색	회색	구매가능	No		No	
+흑백 줄무늬 벽지	4944	gray-striped wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe02.png	1520	380	너굴 상점		회색	하얀색	구매가능	No		No	
+초록 풀꽃 벽	4903	green blossoming wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry03.png	1760	440	너굴 상점		초록색	갈색	구매가능	No		No	
+그린 잔꽃무늬 벽지	4898	green delicate-blooms wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor02.png	1900	475	너굴 상점		초록색	검정색	구매가능	No		No	
+그린 꽃무늬 벽지	4935	green flower-print wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower01.png	1780	445	너굴 상점		초록색	베이지색	구매가능	No		No	
+초록 육각 타일 벽	4913	green honeycomb-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb02.png	1680	420	너굴 상점		초록색	초록색	구매가능	No		No	
+초록 텍스타일 벽	6878	green intricate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop02.png	1570	392	너굴 상점		초록색	하얀색	구매가능	No		No	
+초록 패널 몰드 벽	6854	green molded-panel wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold03.png	1980	495	너굴 상점		초록색	하얀색	구매가능	No		No	
+초록 페인트 우드 벽	4949	green painted-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood01.png	1650	412	너굴 상점		초록색	초록색	구매가능	No		No	
+초록 놀이방 벽지	6866	green playroom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy02.png	2540	635	너굴 상점		초록색	초록색	구매가능	No		No	
+초록 웨딩 벽	12469	green wedding wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch02.png	3000	750	웨딩 이벤트		None	None	비매품	No		No	
+초록 페인트 벽	4812	green-paint wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco04.png	1600	400	너굴 상점		초록색	초록색	구매가능	No		No	
+사이키델릭 벽지	4846	groovy wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPsyche00.png	1280	320	너굴 상점		주황색	주황색	구매가능	No		No	
+오리엔탈 벽	11180	harmonious wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallOriental00.png	1780	445	너굴 상점		갈색	갈색	구매가능	No		No	
+극장 커튼 벽	4878	heavy-curtain wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallThickCurtain00.png	3000	750	사하라		빨간색	검정색	비매품	No		No	
+벌집 벽	4865	honeycomb wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoney00.png	NFS	3600	제작		노란색	노란색	비매품	Yes		No	
+육각 타일 벽	4909	honeycomb-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb00.png	1680	420	너굴 상점		갈색	갈색	구매가능	No		No	
+아이스 벽	5505	ice wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallIce00.png	NFS	8200	제작		하늘색	하늘색	비매품	Yes		Yes	
+빙산 벽	5662	iceberg wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallIceFloe00.png	NFS	4000	제작		하늘색	하얀색	비매품	Yes		No	
+왕조 벽	5224	imperial wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDynasty00.png	3000	750	사하라		빨간색	빨간색	비매품	No		No	
+팩토리 벽	4876	industrial wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFactory00.png	3000	750	사하라		검정색	검정색	비매품	No		No	
+덩굴 벽	4850	ivy wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallIvy00.png	3000	750	사하라		갈색	초록색	비매품	No		No	
+크리스마스 벽	5230	Jingle wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallXmas00.png	NFS	2500	제작		초록색	컬러풀	비매품	Yes		Yes	
+정글 벽	5457	jungle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallJungle00.png	NFS	1380	제작		초록색	초록색	비매품	Yes		No	
+입술 벽지	4881	kisses wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallKiss00.png	3000	750	사하라		분홍색	하얀색	비매품	No		No	
+연구실 벽	5495	laboratory wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallLabo00.png	3000	750	사하라		검정색	검정색	비매품	No		Yes	
+오리엔탈 격자 벽	4830	lattice wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallLattice00.png	1780	445	너굴 상점		갈색	갈색	구매가능	No		No	
+화산 동굴 벽	5506	magma-cavern wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallVolcano00.png	3000	750	사하라		주황색	주황색	비매품	No		Yes	
+만화 도서관 벽	4838	manga-library wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary01.png	NFS	1050	제작		하얀색	하얀색	비매품	Yes		No	
+맹그로브 벽	5514	mangrove wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMangrove00.png	3000	750	사하라		초록색	초록색	비매품	No		No	
+물고기 벽지	4879	marine pop wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFish00.png	NFS	805	낚시대회		하늘색	파란색	비매품	No		No	
+초원 벽	5484	meadow vista	https://acnhcdn.com/latest/FtrIcon/RoomSpWallHighLands00.png	3000	750	사하라		초록색	하늘색	비매품	No		Yes	
+가랑비가 내리는 벽	11915	misty-garden wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallRain00.png	3000	585	사하라		회색	회색	비매품	No		Yes	
+장난기 넘치는 벽지	4908	mod wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMod00.png	1220	305	너굴 상점		주황색	주황색	구매가능	No		No	
+모던 창호지 문 벽	4864	modern shoji-screen wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallShojiModem00.png	1150	287	너굴 상점		갈색	하얀색	구매가능	No		Yes	
+모던 다도실 벽	11178	modern tearoom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud02.png	1750	437	너굴 상점		갈색	갈색	구매가능	No		No	
+믹스우드 벽	4904	modern wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixwood00.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+흑백 도트 벽지	4892	monochromatic dotted wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot00.png	1100	275	너굴 상점		회색	하얀색	구매가능	No		No	
+흑백 타일 벽	4910	monochromatic-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile00.png	1420	355	너굴 상점		회색	하얀색	구매가능	No		No	
+기와 돌담 벽	5215	mortar wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPlaster00.png	3000	750	사하라		회색	회색	비매품	No		No	
+아트 모자이크 타일 벽	4862	mosaic-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMosaicTile00.png	1450	362	너굴 상점		검정색	하얀색	구매가능	No		No	
+이끼 낀 벽	5458	mossy-garden wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMoss00.png	3000	750	사하라		초록색	초록색	비매품	No		No	
+버섯 벽지	5164	mush wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMush00.png	NFS	21400	제작		주황색	갈색	비매품	Yes		No	
+Nook Inc. 벽지	6004	Nook Inc. wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFirst00.png	NFS	6000	너굴 마일 교환		하얀색	하늘색	비매품	No		No	1200
+수평선 벽	5486	ocean-horizon wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallHorizon00.png	3000	750	사하라		파란색	하늘색	비매품	No		Yes	
+오피스 벽	5218	office wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallOffice00.png	3000	750	사하라		하얀색	하늘색	비매품	No		No	
+낡은 벽지	4857	old wallpaper	https://acnhcdn.com/latest/FtrIcon/RoomTexWallOld00.png	200	50	너굴 상점		베이지색	베이지색	구매가능	No		No	
+옐로그린 모로칸 타일 벽	6863	olive desert-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco03.png	2440	610	너굴 상점		노란색	노란색	구매가능	No		No	
+오렌지 밀리터리 벽지	6855	orange camo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage03.png	1150	287	너굴 상점		주황색	주황색	구매가능	No		No	
+오렌지 패널 몰드 벽	4870	orange molded-panel wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold00.png	1980	495	너굴 상점		주황색	베이지색	구매가능	No		No	
+오렌지 벽지	4915	orange wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallOrange00.png	NFS	4000	제작		주황색	주황색	비매품	Yes		No	
+오렌지색 페인트 벽	4809	orange-paint wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco01.png	1600	400	너굴 상점		주황색	주황색	구매가능	No		No	
+아틀리에 벽	4854	paintball wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallAtelier00.png	3000	750	사하라		하얀색	컬러풀	비매품	No		No	
+궁전 벽	5502	palace wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallPalace00.png	3000	750	사하라		베이지색	하얀색	비매품	No		Yes	
+파티 벽지	5226	party wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallParty00.png	NFS	370	생일		컬러풀	하얀색	비매품	No		No	
+파스텔 도트 벽지	4899	pastel dotted wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot01.png	1100	275	너굴 상점		하얀색	컬러풀	구매가능	No		No	
+파스텔 퍼즐 벽지	4886	pastel puzzle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle00.png	1540	385	너굴 상점		하얀색	하얀색	구매가능	No		No	
+분홍 투톤 타일 벽	6857	peach two-toned tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile04.png	1850	462	너굴 상점		분홍색	분홍색	구매가능	No		No	
+복숭아 벽지	4918	peach wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPeach00.png	NFS	4000	제작		분홍색	분홍색	비매품	Yes		No	
+배 벽지	4917	pear wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPear00.png	NFS	4000	제작		초록색	초록색	비매품	Yes		No	
+펀칭 보드 벽	4921	perforated-board wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard01.png	1180	295	너굴 상점		갈색	갈색	구매가능	No		No	
+핑크 풀꽃 벽	4895	pink blossoming wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry01.png	1760	440	너굴 상점		분홍색	갈색	구매가능	No		No	
+분홍 다이너 벽	7242	pink diner wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner01.png	2420	605	너굴 상점		분홍색	컬러풀	구매가능	No		No	
+핑크 꽃무늬 벽지	4893	pink flower-print wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower00.png	1780	445	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 하트 벽지	4875	pink heart-pattern wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart01.png	1280	320	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 페인트 우드 벽	4802	pink painted-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood02.png	1650	412	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 놀이방 벽지	4889	pink playroom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy01.png	2540	635	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 퀼트 벽	7274	pink quilt wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse00.png	2150	537	너굴 상점		분홍색	하얀색	구매가능	No		No	
+핑크 강판 벽	4924	pink shanty wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin01.png	620	155	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 심플 벽지	4868	pink simple-cloth wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple02.png	750	187	너굴 상점		분홍색	분홍색	구매가능	No		No	
+핑크 왕관 벽지	4816	pink-crown wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown02.png	2350	587	너굴 상점		분홍색	하얀색	구매가능	No		No	
+핑크 줄무늬 벽지	4943	pink-striped wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe01.png	1520	380	너굴 상점		분홍색	하얀색	구매가능	No		No	
+퍼플 밀리터리 벽지	4885	purple camo wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage02.png	1150	287	너굴 상점		보라색	보라색	구매가능	No		No	
+퍼플 모로칸 타일 벽	6864	purple desert-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco02.png	2440	610	너굴 상점		보라색	보라색	구매가능	No		No	
+퍼플 도트 벽지	4902	purple dotted wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot04.png	1100	275	너굴 상점		보라색	하얀색	구매가능	No		No	
+퍼플 퍼즐 벽지	6875	purple puzzle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle03.png	1540	385	너굴 상점		보라색	컬러풀	구매가능	No		No	
+퍼플 퀼트 벽	7275	purple quilt wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse03.png	2150	537	너굴 상점		보라색	하얀색	구매가능	No		No	
+보라 장미 벽지	4907	purple-rose wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose01.png	1720	430	너굴 상점		보라색	보라색	구매가능	No		No	
+층층이 쌓은 토벽	4845	rammed-earth wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHanchiku00.png	1800	450	너굴 상점		갈색	베이지색	구매가능	No		No	
+폐허 벽	5225	ramshackle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRuins00.png	3000	750	사하라		갈색	베이지색	비매품	No		No	
+레드 아르데코풍 벽	4818	red art-deco wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco01.png	2780	695	너굴 상점		빨간색	검정색	구매가능	No		No	
+빨간 잔꽃무늬 벽지	4897	red delicate-blooms wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor01.png	1900	475	너굴 상점		빨간색	갈색	구매가능	No		No	
+레드 도트 벽지	4900	red dotted wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot02.png	1100	275	너굴 상점		빨간색	빨간색	구매가능	No		No	
+레드 하트 벽지	6870	red heart-pattern wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart03.png	1280	320	너굴 상점		빨간색	빨간색	구매가능	No		No	
+빨간 텍스타일 벽	6879	red intricate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop03.png	1570	392	너굴 상점		빨간색	하얀색	구매가능	No		No	
+빨간 펀칭 보드 벽	6853	red perforated-board wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard03.png	1180	295	너굴 상점		빨간색	빨간색	구매가능	No		No	
+빨간 투톤 타일 벽	6856	red two-toned tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile03.png	1850	462	너굴 상점		빨간색	빨간색	구매가능	No		No	
+빨간 벽돌 벽	4928	red-brick wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick01.png	1000	250	너굴 상점		빨간색	갈색	구매가능	No		No	
+복고풍 꽃무늬 벽지	4847	retro flower-print wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallKitsch00.png	1660	415	너굴 상점		초록색	초록색	구매가능	No		No	
+전원 풍경 벽	5487	rice-paddy wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallFarm00.png	3000	750	사하라		하늘색	초록색	비매품	No		Yes	
+레슬링 경기장 벽	5512	ringside seating	https://acnhcdn.com/latest/FtrIcon/RoomSpWallWrestling00.png	3000	750	사하라		검정색	검정색	비매품	No		Yes	
+암벽 등반 벽	4851	rock-climbing wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBouldering00.png	3000	750	사하라		하얀색	컬러풀	비매품	No		No	
+장미 벽지	4906	rose wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose00.png	1720	430	너굴 상점		빨간색	하얀색	구매가능	No		No	
+유적 벽	5228	ruins wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRemains00.png	3000	750	사하라		검정색	회색	비매품	No		No	
+마구 붙인 돌 벽	4813	rustic-stone wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStone00.png	NFS	1750	제작		회색	회색	비매품	Yes		No	
+벚꽃색 우드 벽	4947	sakura-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSolidWood00.png	NFS	3200	제작		분홍색	분홍색	비매품	Yes		No	
+우주선 벽	5510	sci-fi wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallSF00.png	NFS	7500	제작		검정색	검정색	비매품	Yes		Yes	
+미닫이 문 벽	4819	screen wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusuma00.png	3000	750	너굴 상점		하얀색	하얀색	구매가능	No		No	
+바다 벽	5501	sea view	https://acnhcdn.com/latest/FtrIcon/RoomSpWallSeaView00.png	3000	750	사하라		하늘색	파란색	비매품	No		Yes	
+모니터 룸 벽	5491	security-monitors wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallMonitor00.png	3000	750	사하라		검정색	회색	비매품	No		Yes	
+세피아 퍼즐 벽지	6874	sepia puzzle wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle02.png	1540	385	너굴 상점		베이지색	컬러풀	구매가능	No		No	
+서버실 벽	5490	server-room wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallServer00.png	3000	750	사하라		검정색	검정색	비매품	No		Yes	
+창호지 문 벽	4863	shoji screen	https://acnhcdn.com/latest/FtrIcon/RoomSpWallShoji00.png	1880	470	너굴 상점		베이지색	하얀색	구매가능	No		Yes	
+닫힌 셔터 벽	4825	shutter wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallShutter00.png	3000	750	사하라		하얀색	회색	비매품	No		No	
+스키장 벽	5498	ski-slope wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallGelande00.png	NFS	3200	제작		하얀색	하얀색	비매품	Yes		Yes	
+해골 벽지	5520	skull wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallSkull00.png	3000	750	너굴 상점		검정색	검정색	구매가능	No		Yes	
+구름 위 벽	5504	sky wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallCloud00.png	3000	750	사하라		하늘색	하얀색	비매품	No		Yes	
+마천루 벽	4852	skyscraper wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSkyscraper00.png	3000	750	사하라		검정색	회색	비매품	No		No	
+눈꽃 벽지	4855	snowflake wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSnowCrystal00.png	NFS	4800	제작		하늘색	하늘색	비매품	Yes		No	
+차분한 다도실 벽	11177	soothing tearoom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud01.png	1750	437	너굴 상점		하얀색	베이지색	구매가능	No		No	
+장작더미 벽	4844	stacked-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFireWood00.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+스타디움 벽	5503	stadium wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallStadium00.png	3000	750	사하라		컬러풀	컬러풀	비매품	No		Yes	
+평범한 다도실 벽	5521	standard tearoom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud00.png	1750	437	너굴 상점		초록색	초록색	구매가능	No		No	
+별 무늬 벽지	5528	starry wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarPrint00.png	NFS	7500	제작		회색	하얀색	비매품	Yes		Yes	
+별이 빛나는 벽	5500	starry-sky wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarSky00.png	NFS	7500	제작		파란색	파란색	비매품	Yes		Yes	
+르네상스풍 벽	4861	stately wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRenaissance00.png	2450	612	너굴 상점		하얀색	하얀색	구매가능	No		No	
+철근 벽	4801	steel-frame wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSteel00.png	NFS	6000	제작		빨간색	회색	비매품	Yes		No	
+돌담 벽	5216	stone wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBasement00.png	NFS	1500	제작		검정색	회색	비매품	Yes		No	
+폭풍우 벽	5499	stormy-night wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallThunder00.png	3000	750	사하라		검정색	회색	비매품	No		Yes	
+밀짚 벽	5217	straw wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStraw00.png	3000	750	사하라		베이지색	베이지색	비매품	No		No	
+딸기 초콜릿 벽	4934	strawberry-chocolate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate02.png	3000	750	사하라		분홍색	분홍색	비매품	No		No	
+그래피티 벽	5221	street-art wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStreetArt00.png	3000	750	사하라		컬러풀	컬러풀	비매품	No		No	
+산 정상 벽	5513	summit wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallMountainTop00.png	3000	750	사하라		검정색	하얀색	비매품	No		Yes	
+가로수 벽	5456	tree-lined wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRoadsideTree00.png	3000	750	사하라		초록색	하늘색	비매품	No		No	
+남쪽 해변 벽	5661	tropical vista	https://acnhcdn.com/latest/FtrIcon/RoomSpWallTropical00.png	NFS	6000	제작		하늘색	베이지색	비매품	Yes		Yes	
+바닷속 벽	5508	underwater wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallFishTank00.png	NFS	8600	제작		파란색	하늘색	비매품	Yes		Yes	
+웨이브 타일 벽	4832	wavy-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWaveTile00.png	1740	435	너굴 상점		회색	하얀색	구매가능	No		No	
+웨딩 파티 벽	12461	wedding-party wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallJuneBride00.png	1750	437.5	웨딩 이벤트		None	None	비매품	No		No	
+황야 벽	5489	western vista	https://acnhcdn.com/latest/FtrIcon/RoomSpWallWilderness00.png	3000	750	사하라		갈색	베이지색	비매품	No		Yes	
+화이트 보태니컬 타일 벽	4826	white botanical-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile00.png	1240	310	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 잔꽃무늬 벽지	4891	white delicate-blooms wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor00.png	1900	475	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 홀 벽	6861	white hallway wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall02.png	2000	500	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 육각 타일 벽	4914	white honeycomb-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb03.png	1680	420	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 페인트 우드 벽	4803	white painted-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood03.png	1650	412	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 펀칭 보드 벽	4920	white perforated-board wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard00.png	1180	295	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 심플 벽지	4939	white simple-cloth wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple00.png	750	187	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 메트로 타일 벽	4941	white subway-tile wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro01.png	1340	335	너굴 상점		하얀색	하얀색	구매가능	No		No	
+하얀 웨딩 벽	12466	white wedding wall	https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch00.png	3000	750	웨딩 이벤트		None	None	비매품	No		No	
+하얀 벽돌 벽	4927	white-brick wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick00.png	1000	250	너굴 상점		하얀색	하얀색	구매가능	No		No	
+화이트 초콜릿 벽	4933	white-chocolate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate01.png	3000	750	사하라		하얀색	베이지색	비매품	No		No	
+하얀 장미 벽지	6868	white-rose wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose02.png	1720	430	너굴 상점		분홍색	하얀색	구매가능	No		No	
+거친 나무 벽	4858	wild-wood wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallWildWood00.png	NFS	1800	제작		검정색	검정색	비매품	Yes		No	
+우드 벽	4911	wooden-knot wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallCedar00.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+나무로 짠 벽	4859	wooden-mosaic wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood00.png	NFS	1800	제작		갈색	갈색	비매품	Yes		No	
+울창한 숲 벽	5223	woodland wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallJukai00.png	NFS	1380	제작		초록색	초록색	비매품	Yes		No	
+노란 꽃무늬 벽지	6872	yellow flower-print wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower02.png	1780	445	너굴 상점		노란색	노란색	구매가능	No		No	
+옐로 하트 벽지	6871	yellow heart-pattern wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart02.png	1280	320	너굴 상점		노란색	노란색	구매가능	No		No	
+노란 텍스타일 벽	4849	yellow intricate wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop01.png	1570	392	너굴 상점		노란색	하얀색	구매가능	No		No	
+노란 놀이방 벽지	6865	yellow playroom wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy03.png	2540	635	너굴 상점		노란색	노란색	구매가능	No		No	
+옐로 퀼트 벽	7276	yellow quilt wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse02.png	2150	537	너굴 상점		노란색	하얀색	구매가능	No		No	
+베이지 심플 벽지	4867	yellow simple-cloth wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple01.png	750	187	너굴 상점		베이지색	노란색	구매가능	No		No	
+노란 페인트 벽	4808	yellow-paint wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco00.png	1600	400	너굴 상점		노란색	노란색	구매가능	No		No	
+옐로 줄무늬 벽지	4946	yellow-striped wall	https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe04.png	1520	380	너굴 상점		노란색	베이지색	구매가능	No		No	
